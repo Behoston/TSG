@@ -1,0 +1,5130 @@
+Białko:
+	nazwa: >ATXG00000.1 | Symbols: BSA | Albumina z krowy MUUUU lub byka | chrX:00000-00199
+	sekwencja[607]: MKWVTFISLLLLFSSAYSRGVFRRDTHKSEIAHRFKDLGEEHFKGLVLIAFSQYLQQCPFDEHVKLVNELTEFAKTCVADESHAGCEKSLHTLFGDELCKVASLRETYGDMADCCEKQEPERNECFLSHKDDSPDLPKLKPDPNTLCDEFKADEKKFWGKYLYEIARRHPYFYAPELLYYANKYNGVFQECCQAEDKGACLLPKIETMREKVLASSARQRLRCASIQKFGERALKAWSVARLSQKFPKAEFVEVTKLVTDLTKVHKECCHGDLLECADDRADLAKYICDNQDTISSKLKECCDKPLLEKSHCIAEVEKDAIPENLPPLTADFAEDKDVCKNYQEAKDAFLGSFLYEYSRRHPEYAVSVLLRLAKEYEATLEECCAKDDPHACYSTVFDKLKHLVDEPQNLIKQNCDQFEKLGEYGFQNALIVRYTRKVPQVSTPTLVEVSRSLGKVGTRCCTKPESERMPCTEDYLSLILNRLCVLHEKTPVSEKVTKCCTESLVNRRPCFSALTPDETYVPKAFDEKLFTFHADICTLPDTEKQIKKQTALVELLKHKPKATEEQLKTVMENFVAFVDKCCAADDKEACFAVEGPKLVVSTQTALA
+	masa: 69248.4406851
+	Peptydy [86]:
+		Peptyd:
+			sekwencja[2]: MK
+			masa: 277.146012612
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: MK
+						masa: 276.13818758
+				Jony:
+					JonB: 
+						sekwencja[1]: M
+						masa: 132.047761381
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: MK
+						masa: 260.142724396
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[17]: WVTFISLLLLFSSAYSR
+			masa: 2002.09278469
+			Jony[18]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[17]: WVTFISLLLLFSSAYSR
+						masa: 2001.08495965
+				Jony:
+					JonB: 
+						sekwencja[1]: W
+						masa: 187.086589417
+					JonY: 
+						sekwencja[16]: VTFISLLLLFSSAYSR
+						masa: 1815.0056467
+				Jony:
+					JonB: 
+						sekwencja[2]: WV
+						masa: 286.15500333
+					JonY: 
+						sekwencja[15]: TFISLLLLFSSAYSR
+						masa: 1715.93723279
+				Jony:
+					JonB: 
+						sekwencja[3]: WVT
+						masa: 387.202681798
+					JonY: 
+						sekwencja[14]: FISLLLLFSSAYSR
+						masa: 1614.88955432
+				Jony:
+					JonB: 
+						sekwencja[4]: WVTF
+						masa: 534.271095711
+					JonY: 
+						sekwencja[13]: ISLLLLFSSAYSR
+						masa: 1467.82114041
+				Jony:
+					JonB: 
+						sekwencja[5]: WVTFI
+						masa: 647.355159689
+					JonY: 
+						sekwencja[12]: SLLLLFSSAYSR
+						masa: 1354.73707643
+				Jony:
+					JonB: 
+						sekwencja[6]: WVTFIS
+						masa: 734.387188093
+					JonY: 
+						sekwencja[11]: LLLLFSSAYSR
+						masa: 1267.70504803
+				Jony:
+					JonB: 
+						sekwencja[7]: WVTFISL
+						masa: 847.47125207
+					JonY: 
+						sekwencja[10]: LLLFSSAYSR
+						masa: 1154.62098405
+				Jony:
+					JonB: 
+						sekwencja[8]: WVTFISLL
+						masa: 960.555316047
+					JonY: 
+						sekwencja[9]: LLFSSAYSR
+						masa: 1041.53692007
+				Jony:
+					JonB: 
+						sekwencja[9]: WVTFISLLL
+						masa: 1073.63938002
+					JonY: 
+						sekwencja[8]: LFSSAYSR
+						masa: 928.452856096
+				Jony:
+					JonB: 
+						sekwencja[10]: WVTFISLLLL
+						masa: 1186.723444
+					JonY: 
+						sekwencja[7]: FSSAYSR
+						masa: 815.368792119
+				Jony:
+					JonB: 
+						sekwencja[11]: WVTFISLLLLF
+						masa: 1333.79185791
+					JonY: 
+						sekwencja[6]: SSAYSR
+						masa: 668.300378206
+				Jony:
+					JonB: 
+						sekwencja[12]: WVTFISLLLLFS
+						masa: 1420.82388632
+					JonY: 
+						sekwencja[5]: SAYSR
+						masa: 581.268349802
+				Jony:
+					JonB: 
+						sekwencja[13]: WVTFISLLLLFSS
+						masa: 1507.85591472
+					JonY: 
+						sekwencja[4]: AYSR
+						masa: 494.236321397
+				Jony:
+					JonB: 
+						sekwencja[14]: WVTFISLLLLFSSA
+						masa: 1578.89302851
+					JonY: 
+						sekwencja[3]: YSR
+						masa: 423.199207612
+				Jony:
+					JonB: 
+						sekwencja[15]: WVTFISLLLLFSSAY
+						masa: 1741.95635704
+					JonY: 
+						sekwencja[2]: SR
+						masa: 260.13587908
+				Jony:
+					JonB: 
+						sekwencja[16]: WVTFISLLLLFSSAYS
+						masa: 1828.98838545
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[17]: WVTFISLLLLFSSAYSR
+						masa: 1985.08949647
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: GVFR
+			masa: 477.269967254
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: GVFR
+						masa: 476.262142222
+				Jony:
+					JonB: 
+						sekwencja[1]: G
+						masa: 58.0287401874
+					JonY: 
+						sekwencja[3]: VFR
+						masa: 419.240678502
+				Jony:
+					JonB: 
+						sekwencja[2]: GV
+						masa: 157.097154101
+					JonY: 
+						sekwencja[2]: FR
+						masa: 320.172264589
+				Jony:
+					JonB: 
+						sekwencja[3]: GVF
+						masa: 304.165568014
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[4]: GVFR
+						masa: 460.266679037
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[1]: R
+			masa: 174.111675708
+			Jony[2]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[1]: R
+						masa: 157.108387491
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: DTHK
+			masa: 499.239061049
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: DTHK
+						masa: 498.231236017
+				Jony:
+					JonB: 
+						sekwencja[1]: D
+						masa: 116.034219491
+					JonY: 
+						sekwencja[3]: THK
+						masa: 383.204292993
+				Jony:
+					JonB: 
+						sekwencja[2]: DT
+						masa: 217.081897959
+					JonY: 
+						sekwencja[2]: HK
+						masa: 282.156614524
+				Jony:
+					JonB: 
+						sekwencja[3]: DTH
+						masa: 354.140809818
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[4]: DTHK
+						masa: 482.235772832
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[6]: SEIAHR
+			masa: 711.366386821
+			Jony[7]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[6]: SEIAHR
+						masa: 710.358561788
+				Jony:
+					JonB: 
+						sekwencja[1]: S
+						masa: 88.0393048712
+					JonY: 
+						sekwencja[5]: EIAHR
+						masa: 623.326533384
+				Jony:
+					JonB: 
+						sekwencja[2]: SE
+						masa: 217.081897959
+					JonY: 
+						sekwencja[4]: IAHR
+						masa: 494.283940296
+				Jony:
+					JonB: 
+						sekwencja[3]: SEI
+						masa: 330.165961936
+					JonY: 
+						sekwencja[3]: AHR
+						masa: 381.199876319
+				Jony:
+					JonB: 
+						sekwencja[4]: SEIA
+						masa: 401.203075721
+					JonY: 
+						sekwencja[2]: HR
+						masa: 310.162762534
+				Jony:
+					JonB: 
+						sekwencja[5]: SEIAH
+						masa: 538.26198758
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[6]: SEIAHR
+						masa: 694.363098604
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: FK
+			masa: 293.173941611
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: FK
+						masa: 292.166116579
+				Jony:
+					JonB: 
+						sekwencja[1]: F
+						masa: 148.07569038
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: FK
+						masa: 276.170653394
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[8]: DLGEEHFK
+			masa: 973.450510367
+			Jony[9]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[8]: DLGEEHFK
+						masa: 972.442685335
+				Jony:
+					JonB: 
+						sekwencja[1]: D
+						masa: 116.034219491
+					JonY: 
+						sekwencja[7]: LGEEHFK
+						masa: 857.415742311
+				Jony:
+					JonB: 
+						sekwencja[2]: DL
+						masa: 229.118283468
+					JonY: 
+						sekwencja[6]: GEEHFK
+						masa: 744.331678334
+				Jony:
+					JonB: 
+						sekwencja[3]: DLG
+						masa: 286.139747189
+					JonY: 
+						sekwencja[5]: EEHFK
+						masa: 687.310214614
+				Jony:
+					JonB: 
+						sekwencja[4]: DLGE
+						masa: 415.182340277
+					JonY: 
+						sekwencja[4]: EHFK
+						masa: 558.267621526
+				Jony:
+					JonB: 
+						sekwencja[5]: DLGEE
+						masa: 544.224933365
+					JonY: 
+						sekwencja[3]: HFK
+						masa: 429.225028437
+				Jony:
+					JonB: 
+						sekwencja[6]: DLGEEH
+						masa: 681.283845223
+					JonY: 
+						sekwencja[2]: FK
+						masa: 292.166116579
+				Jony:
+					JonB: 
+						sekwencja[7]: DLGEEHF
+						masa: 828.352259136
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[8]: DLGEEHFK
+						masa: 956.44722215
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[21]: GLVLIAFSQYLQQCPFDEHVK
+			masa: 2434.23550282
+			Jony[22]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[21]: GLVLIAFSQYLQQCPFDEHVK
+						masa: 2433.22767779
+				Jony:
+					JonB: 
+						sekwencja[1]: G
+						masa: 58.0287401874
+					JonY: 
+						sekwencja[20]: LVLIAFSQYLQQCPFDEHVK
+						masa: 2376.20621407
+				Jony:
+					JonB: 
+						sekwencja[2]: GL
+						masa: 171.112804165
+					JonY: 
+						sekwencja[19]: VLIAFSQYLQQCPFDEHVK
+						masa: 2263.12215009
+				Jony:
+					JonB: 
+						sekwencja[3]: GLV
+						masa: 270.181218078
+					JonY: 
+						sekwencja[18]: LIAFSQYLQQCPFDEHVK
+						masa: 2164.05373618
+				Jony:
+					JonB: 
+						sekwencja[4]: GLVL
+						masa: 383.265282055
+					JonY: 
+						sekwencja[17]: IAFSQYLQQCPFDEHVK
+						masa: 2050.9696722
+				Jony:
+					JonB: 
+						sekwencja[5]: GLVLI
+						masa: 496.349346032
+					JonY: 
+						sekwencja[16]: AFSQYLQQCPFDEHVK
+						masa: 1937.88560823
+				Jony:
+					JonB: 
+						sekwencja[6]: GLVLIA
+						masa: 567.386459817
+					JonY: 
+						sekwencja[15]: FSQYLQQCPFDEHVK
+						masa: 1866.84849444
+				Jony:
+					JonB: 
+						sekwencja[7]: GLVLIAF
+						masa: 714.45487373
+					JonY: 
+						sekwencja[14]: SQYLQQCPFDEHVK
+						masa: 1719.78008053
+				Jony:
+					JonB: 
+						sekwencja[8]: GLVLIAFS
+						masa: 801.486902134
+					JonY: 
+						sekwencja[13]: QYLQQCPFDEHVK
+						masa: 1632.74805212
+				Jony:
+					JonB: 
+						sekwencja[9]: GLVLIAFSQ
+						masa: 929.54547964
+					JonY: 
+						sekwencja[12]: YLQQCPFDEHVK
+						masa: 1504.68947462
+				Jony:
+					JonB: 
+						sekwencja[10]: GLVLIAFSQY
+						masa: 1092.60880817
+					JonY: 
+						sekwencja[11]: LQQCPFDEHVK
+						masa: 1341.62614609
+				Jony:
+					JonB: 
+						sekwencja[11]: GLVLIAFSQYL
+						masa: 1205.69287215
+					JonY: 
+						sekwencja[10]: QQCPFDEHVK
+						masa: 1228.54208211
+				Jony:
+					JonB: 
+						sekwencja[12]: GLVLIAFSQYLQ
+						masa: 1333.75144965
+					JonY: 
+						sekwencja[9]: QCPFDEHVK
+						masa: 1100.4835046
+				Jony:
+					JonB: 
+						sekwencja[13]: GLVLIAFSQYLQQ
+						masa: 1461.81002716
+					JonY: 
+						sekwencja[8]: CPFDEHVK
+						masa: 972.424927098
+				Jony:
+					JonB: 
+						sekwencja[14]: GLVLIAFSQYLQQC
+						masa: 1564.81921195
+					JonY: 
+						sekwencja[7]: PFDEHVK
+						masa: 869.415742311
+				Jony:
+					JonB: 
+						sekwencja[15]: GLVLIAFSQYLQQCP
+						masa: 1661.8719758
+					JonY: 
+						sekwencja[6]: FDEHVK
+						masa: 772.362978462
+				Jony:
+					JonB: 
+						sekwencja[16]: GLVLIAFSQYLQQCPF
+						masa: 1808.94038971
+					JonY: 
+						sekwencja[5]: DEHVK
+						masa: 625.294564549
+				Jony:
+					JonB: 
+						sekwencja[17]: GLVLIAFSQYLQQCPFD
+						masa: 1923.96733273
+					JonY: 
+						sekwencja[4]: EHVK
+						masa: 510.267621526
+				Jony:
+					JonB: 
+						sekwencja[18]: GLVLIAFSQYLQQCPFDE
+						masa: 2053.00992582
+					JonY: 
+						sekwencja[3]: HVK
+						masa: 381.225028437
+				Jony:
+					JonB: 
+						sekwencja[19]: GLVLIAFSQYLQQCPFDEH
+						masa: 2190.06883768
+					JonY: 
+						sekwencja[2]: VK
+						masa: 244.166116579
+				Jony:
+					JonB: 
+						sekwencja[20]: GLVLIAFSQYLQQCPFDEHV
+						masa: 2289.13725159
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[21]: GLVLIAFSQYLQQCPFDEHVK
+						masa: 2417.23221461
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[10]: LVNELTEFAK
+			masa: 1162.62338935
+			Jony[11]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[10]: LVNELTEFAK
+						masa: 1161.61556432
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[9]: VNELTEFAK
+						masa: 1048.53150034
+				Jony:
+					JonB: 
+						sekwencja[2]: LV
+						masa: 213.159754357
+					JonY: 
+						sekwencja[8]: NELTEFAK
+						masa: 949.463086427
+				Jony:
+					JonB: 
+						sekwencja[3]: LVN
+						masa: 327.202681798
+					JonY: 
+						sekwencja[7]: ELTEFAK
+						masa: 835.420158985
+				Jony:
+					JonB: 
+						sekwencja[4]: LVNE
+						masa: 456.245274886
+					JonY: 
+						sekwencja[6]: LTEFAK
+						masa: 706.377565897
+				Jony:
+					JonB: 
+						sekwencja[5]: LVNEL
+						masa: 569.329338864
+					JonY: 
+						sekwencja[5]: TEFAK
+						masa: 593.29350192
+				Jony:
+					JonB: 
+						sekwencja[6]: LVNELT
+						masa: 670.377017332
+					JonY: 
+						sekwencja[4]: EFAK
+						masa: 492.245823452
+				Jony:
+					JonB: 
+						sekwencja[7]: LVNELTE
+						masa: 799.41961042
+					JonY: 
+						sekwencja[3]: FAK
+						masa: 363.203230364
+				Jony:
+					JonB: 
+						sekwencja[8]: LVNELTEF
+						masa: 946.488024333
+					JonY: 
+						sekwencja[2]: AK
+						masa: 216.134816451
+				Jony:
+					JonB: 
+						sekwencja[9]: LVNELTEFA
+						masa: 1017.52513812
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[10]: LVNELTEFAK
+						masa: 1145.62010113
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[13]: TCVADESHAGCEK
+			masa: 1348.53875041
+			Jony[14]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[13]: TCVADESHAGCEK
+						masa: 1347.53092537
+				Jony:
+					JonB: 
+						sekwencja[1]: T
+						masa: 102.054954935
+					JonY: 
+						sekwencja[12]: CVADESHAGCEK
+						masa: 1246.4832469
+				Jony:
+					JonB: 
+						sekwencja[2]: TC
+						masa: 205.064139722
+					JonY: 
+						sekwencja[11]: VADESHAGCEK
+						masa: 1143.47406212
+				Jony:
+					JonB: 
+						sekwencja[3]: TCV
+						masa: 304.132553635
+					JonY: 
+						sekwencja[10]: ADESHAGCEK
+						masa: 1044.40564821
+				Jony:
+					JonB: 
+						sekwencja[4]: TCVA
+						masa: 375.169667419
+					JonY: 
+						sekwencja[9]: DESHAGCEK
+						masa: 973.36853442
+				Jony:
+					JonB: 
+						sekwencja[5]: TCVAD
+						masa: 490.196610443
+					JonY: 
+						sekwencja[8]: ESHAGCEK
+						masa: 858.341591397
+				Jony:
+					JonB: 
+						sekwencja[6]: TCVADE
+						masa: 619.239203531
+					JonY: 
+						sekwencja[7]: SHAGCEK
+						masa: 729.298998308
+				Jony:
+					JonB: 
+						sekwencja[7]: TCVADES
+						masa: 706.271231936
+					JonY: 
+						sekwencja[6]: HAGCEK
+						masa: 642.266969904
+				Jony:
+					JonB: 
+						sekwencja[8]: TCVADESH
+						masa: 843.330143794
+					JonY: 
+						sekwencja[5]: AGCEK
+						masa: 505.208058045
+				Jony:
+					JonB: 
+						sekwencja[9]: TCVADESHA
+						masa: 914.367257579
+					JonY: 
+						sekwencja[4]: GCEK
+						masa: 434.170944261
+				Jony:
+					JonB: 
+						sekwencja[10]: TCVADESHAG
+						masa: 971.3887213
+					JonY: 
+						sekwencja[3]: CEK
+						masa: 377.14948054
+				Jony:
+					JonB: 
+						sekwencja[11]: TCVADESHAGC
+						masa: 1074.39790609
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[12]: TCVADESHAGCE
+						masa: 1203.44049917
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[13]: TCVADESHAGCEK
+						masa: 1331.53546219
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[12]: SLHTLFGDELCK
+			masa: 1361.66493689
+			Jony[13]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[12]: SLHTLFGDELCK
+						masa: 1360.65711186
+				Jony:
+					JonB: 
+						sekwencja[1]: S
+						masa: 88.0393048712
+					JonY: 
+						sekwencja[11]: LHTLFGDELCK
+						masa: 1273.62508346
+				Jony:
+					JonB: 
+						sekwencja[2]: SL
+						masa: 201.123368848
+					JonY: 
+						sekwencja[10]: HTLFGDELCK
+						masa: 1160.54101948
+				Jony:
+					JonB: 
+						sekwencja[3]: SLH
+						masa: 338.182280707
+					JonY: 
+						sekwencja[9]: TLFGDELCK
+						masa: 1023.48210762
+				Jony:
+					JonB: 
+						sekwencja[4]: SLHT
+						masa: 439.229959175
+					JonY: 
+						sekwencja[8]: LFGDELCK
+						masa: 922.434429152
+				Jony:
+					JonB: 
+						sekwencja[5]: SLHTL
+						masa: 552.314023153
+					JonY: 
+						sekwencja[7]: FGDELCK
+						masa: 809.350365175
+				Jony:
+					JonB: 
+						sekwencja[6]: SLHTLF
+						masa: 699.382437066
+					JonY: 
+						sekwencja[6]: GDELCK
+						masa: 662.281951262
+				Jony:
+					JonB: 
+						sekwencja[7]: SLHTLFG
+						masa: 756.403900786
+					JonY: 
+						sekwencja[5]: DELCK
+						masa: 605.260487541
+				Jony:
+					JonB: 
+						sekwencja[8]: SLHTLFGD
+						masa: 871.43084381
+					JonY: 
+						sekwencja[4]: ELCK
+						masa: 490.233544517
+				Jony:
+					JonB: 
+						sekwencja[9]: SLHTLFGDE
+						masa: 1000.4734369
+					JonY: 
+						sekwencja[3]: LCK
+						masa: 361.190951429
+				Jony:
+					JonB: 
+						sekwencja[10]: SLHTLFGDEL
+						masa: 1113.55750088
+					JonY: 
+						sekwencja[2]: CK
+						masa: 248.106887452
+				Jony:
+					JonB: 
+						sekwencja[11]: SLHTLFGDELC
+						masa: 1216.56668566
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[12]: SLHTLFGDELCK
+						masa: 1344.66164868
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: VASLR
+			masa: 544.333295787
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: VASLR
+						masa: 543.325470755
+				Jony:
+					JonB: 
+						sekwencja[1]: V
+						masa: 100.07569038
+					JonY: 
+						sekwencja[4]: ASLR
+						masa: 444.257056842
+				Jony:
+					JonB: 
+						sekwencja[2]: VA
+						masa: 171.112804165
+					JonY: 
+						sekwencja[3]: SLR
+						masa: 373.219943057
+				Jony:
+					JonB: 
+						sekwencja[3]: VAS
+						masa: 258.144832569
+					JonY: 
+						sekwencja[2]: LR
+						masa: 286.187914653
+				Jony:
+					JonB: 
+						sekwencja[4]: VASL
+						masa: 371.228896546
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[5]: VASLR
+						masa: 527.33000757
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[12]: ETYGDMADCCEK
+			masa: 1363.47303892
+			Jony[13]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[12]: ETYGDMADCCEK
+						masa: 1362.46521388
+				Jony:
+					JonB: 
+						sekwencja[1]: E
+						masa: 130.049869555
+					JonY: 
+						sekwencja[11]: TYGDMADCCEK
+						masa: 1233.4226208
+				Jony:
+					JonB: 
+						sekwencja[2]: ET
+						masa: 231.097548023
+					JonY: 
+						sekwencja[10]: YGDMADCCEK
+						masa: 1132.37494233
+				Jony:
+					JonB: 
+						sekwencja[3]: ETY
+						masa: 394.160876556
+					JonY: 
+						sekwencja[9]: GDMADCCEK
+						masa: 969.311613794
+				Jony:
+					JonB: 
+						sekwencja[4]: ETYG
+						masa: 451.182340277
+					JonY: 
+						sekwencja[8]: DMADCCEK
+						masa: 912.290150073
+				Jony:
+					JonB: 
+						sekwencja[5]: ETYGD
+						masa: 566.2092833
+					JonY: 
+						sekwencja[7]: MADCCEK
+						masa: 797.26320705
+				Jony:
+					JonB: 
+						sekwencja[6]: ETYGDM
+						masa: 697.249768215
+					JonY: 
+						sekwencja[6]: ADCCEK
+						masa: 666.222722135
+				Jony:
+					JonB: 
+						sekwencja[7]: ETYGDMA
+						masa: 768.286882
+					JonY: 
+						sekwencja[5]: DCCEK
+						masa: 595.18560835
+				Jony:
+					JonB: 
+						sekwencja[8]: ETYGDMAD
+						masa: 883.313825024
+					JonY: 
+						sekwencja[4]: CCEK
+						masa: 480.158665326
+				Jony:
+					JonB: 
+						sekwencja[9]: ETYGDMADC
+						masa: 986.32300981
+					JonY: 
+						sekwencja[3]: CEK
+						masa: 377.14948054
+				Jony:
+					JonB: 
+						sekwencja[10]: ETYGDMADCC
+						masa: 1089.3321946
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[11]: ETYGDMADCCE
+						masa: 1218.37478768
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[12]: ETYGDMADCCEK
+						masa: 1346.4697507
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: QEPER
+			masa: 657.308203238
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: QEPER
+						masa: 656.300378206
+				Jony:
+					JonB: 
+						sekwencja[1]: Q
+						masa: 129.065853972
+					JonY: 
+						sekwencja[4]: EPER
+						masa: 528.2418007
+				Jony:
+					JonB: 
+						sekwencja[2]: QE
+						masa: 258.10844706
+					JonY: 
+						sekwencja[3]: PER
+						masa: 399.199207612
+				Jony:
+					JonB: 
+						sekwencja[3]: QEP
+						masa: 355.161210909
+					JonY: 
+						sekwencja[2]: ER
+						masa: 302.146443764
+				Jony:
+					JonB: 
+						sekwencja[4]: QEPE
+						masa: 484.203803997
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[5]: QEPER
+						masa: 640.304915021
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[8]: NECFLSHK
+			masa: 976.443651167
+			Jony[9]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[8]: NECFLSHK
+						masa: 975.435826135
+				Jony:
+					JonB: 
+						sekwencja[1]: N
+						masa: 115.050203908
+					JonY: 
+						sekwencja[7]: ECFLSHK
+						masa: 861.392898693
+				Jony:
+					JonB: 
+						sekwencja[2]: NE
+						masa: 244.092796996
+					JonY: 
+						sekwencja[6]: CFLSHK
+						masa: 732.350305605
+				Jony:
+					JonB: 
+						sekwencja[3]: NEC
+						masa: 347.101981782
+					JonY: 
+						sekwencja[5]: FLSHK
+						masa: 629.341120819
+				Jony:
+					JonB: 
+						sekwencja[4]: NECF
+						masa: 494.170395695
+					JonY: 
+						sekwencja[4]: LSHK
+						masa: 482.272706906
+				Jony:
+					JonB: 
+						sekwencja[5]: NECFL
+						masa: 607.254459673
+					JonY: 
+						sekwencja[3]: SHK
+						masa: 369.188642929
+				Jony:
+					JonB: 
+						sekwencja[6]: NECFLS
+						masa: 694.286488077
+					JonY: 
+						sekwencja[2]: HK
+						masa: 282.156614524
+				Jony:
+					JonB: 
+						sekwencja[7]: NECFLSH
+						masa: 831.345399936
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[8]: NECFLSHK
+						masa: 959.44036295
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[8]: DDSPDLPK
+			masa: 885.407976849
+			Jony[9]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[8]: DDSPDLPK
+						masa: 884.400151817
+				Jony:
+					JonB: 
+						sekwencja[1]: D
+						masa: 116.034219491
+					JonY: 
+						sekwencja[7]: DSPDLPK
+						masa: 769.373208793
+				Jony:
+					JonB: 
+						sekwencja[2]: DD
+						masa: 231.061162515
+					JonY: 
+						sekwencja[6]: SPDLPK
+						masa: 654.346265769
+				Jony:
+					JonB: 
+						sekwencja[3]: DDS
+						masa: 318.093190919
+					JonY: 
+						sekwencja[5]: PDLPK
+						masa: 567.314237365
+				Jony:
+					JonB: 
+						sekwencja[4]: DDSP
+						masa: 415.145954768
+					JonY: 
+						sekwencja[4]: DLPK
+						masa: 470.261473516
+				Jony:
+					JonB: 
+						sekwencja[5]: DDSPD
+						masa: 530.172897792
+					JonY: 
+						sekwencja[3]: LPK
+						masa: 355.234530492
+				Jony:
+					JonB: 
+						sekwencja[6]: DDSPDL
+						masa: 643.256961769
+					JonY: 
+						sekwencja[2]: PK
+						masa: 242.150466515
+				Jony:
+					JonB: 
+						sekwencja[7]: DDSPDLP
+						masa: 740.309725618
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[8]: DDSPDLPK
+						masa: 868.404688632
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: LK
+			masa: 259.189591675
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: LK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: LK
+						masa: 242.186303458
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[11]: PDPNTLCDEFK
+			masa: 1277.55980312
+			Jony[12]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[11]: PDPNTLCDEFK
+						masa: 1276.55197809
+				Jony:
+					JonB: 
+						sekwencja[1]: P
+						masa: 98.0600403157
+					JonY: 
+						sekwencja[10]: DPNTLCDEFK
+						masa: 1179.49921424
+				Jony:
+					JonB: 
+						sekwencja[2]: PD
+						masa: 213.08698334
+					JonY: 
+						sekwencja[9]: PNTLCDEFK
+						masa: 1064.47227121
+				Jony:
+					JonB: 
+						sekwencja[3]: PDP
+						masa: 310.139747189
+					JonY: 
+						sekwencja[8]: NTLCDEFK
+						masa: 967.419507364
+				Jony:
+					JonB: 
+						sekwencja[4]: PDPN
+						masa: 424.18267463
+					JonY: 
+						sekwencja[7]: TLCDEFK
+						masa: 853.376579923
+				Jony:
+					JonB: 
+						sekwencja[5]: PDPNT
+						masa: 525.230353098
+					JonY: 
+						sekwencja[6]: LCDEFK
+						masa: 752.328901454
+				Jony:
+					JonB: 
+						sekwencja[6]: PDPNTL
+						masa: 638.314417076
+					JonY: 
+						sekwencja[5]: CDEFK
+						masa: 639.244837477
+				Jony:
+					JonB: 
+						sekwencja[7]: PDPNTLC
+						masa: 741.323601862
+					JonY: 
+						sekwencja[4]: DEFK
+						masa: 536.235652691
+				Jony:
+					JonB: 
+						sekwencja[8]: PDPNTLCD
+						masa: 856.350544886
+					JonY: 
+						sekwencja[3]: EFK
+						masa: 421.208709667
+				Jony:
+					JonB: 
+						sekwencja[9]: PDPNTLCDE
+						masa: 985.393137974
+					JonY: 
+						sekwencja[2]: FK
+						masa: 292.166116579
+				Jony:
+					JonB: 
+						sekwencja[10]: PDPNTLCDEF
+						masa: 1132.46155189
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[11]: PDPNTLCDEFK
+						masa: 1260.5565149
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: ADEK
+			masa: 461.212177595
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: ADEK
+						masa: 460.204352562
+				Jony:
+					JonB: 
+						sekwencja[1]: A
+						masa: 72.0443902516
+					JonY: 
+						sekwencja[3]: DEK
+						masa: 389.167238778
+				Jony:
+					JonB: 
+						sekwencja[2]: AD
+						masa: 187.071333275
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[3]: ADE
+						masa: 316.113926364
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[4]: ADEK
+						masa: 444.208889378
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[1]: K
+			masa: 146.105527698
+			Jony[2]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[1]: K
+						masa: 129.102239481
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: FWGK
+			masa: 536.274718282
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: FWGK
+						masa: 535.266893249
+				Jony:
+					JonB: 
+						sekwencja[1]: F
+						masa: 148.07569038
+					JonY: 
+						sekwencja[3]: WGK
+						masa: 388.198479336
+				Jony:
+					JonB: 
+						sekwencja[2]: FW
+						masa: 334.15500333
+					JonY: 
+						sekwencja[2]: GK
+						masa: 202.119166386
+				Jony:
+					JonB: 
+						sekwencja[3]: FWG
+						masa: 391.17646705
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[4]: FWGK
+						masa: 519.271430065
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[7]: YLYEIAR
+			masa: 926.4861676
+			Jony[8]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[7]: YLYEIAR
+						masa: 925.478342568
+				Jony:
+					JonB: 
+						sekwencja[1]: Y
+						masa: 164.070604999
+					JonY: 
+						sekwencja[6]: LYEIAR
+						masa: 762.415014035
+				Jony:
+					JonB: 
+						sekwencja[2]: YL
+						masa: 277.154668977
+					JonY: 
+						sekwencja[5]: YEIAR
+						masa: 649.330950058
+				Jony:
+					JonB: 
+						sekwencja[3]: YLY
+						masa: 440.217997509
+					JonY: 
+						sekwencja[4]: EIAR
+						masa: 486.267621526
+				Jony:
+					JonB: 
+						sekwencja[4]: YLYE
+						masa: 569.260590597
+					JonY: 
+						sekwencja[3]: IAR
+						masa: 357.225028437
+				Jony:
+					JonB: 
+						sekwencja[5]: YLYEI
+						masa: 682.344654575
+					JonY: 
+						sekwencja[2]: AR
+						masa: 244.14096446
+				Jony:
+					JonB: 
+						sekwencja[6]: YLYEIA
+						masa: 753.381768359
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[7]: YLYEIAR
+						masa: 909.482879383
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[1]: R
+			masa: 174.111675708
+			Jony[2]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[1]: R
+						masa: 157.108387491
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[15]: HPYFYAPELLYYANK
+			masa: 1887.91957135
+			Jony[16]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[15]: HPYFYAPELLYYANK
+						masa: 1886.91174632
+				Jony:
+					JonB: 
+						sekwencja[1]: H
+						masa: 138.066188325
+					JonY: 
+						sekwencja[14]: PYFYAPELLYYANK
+						masa: 1749.85283446
+				Jony:
+					JonB: 
+						sekwencja[2]: HP
+						masa: 235.118952174
+					JonY: 
+						sekwencja[13]: YFYAPELLYYANK
+						masa: 1652.80007061
+				Jony:
+					JonB: 
+						sekwencja[3]: HPY
+						masa: 398.182280707
+					JonY: 
+						sekwencja[12]: FYAPELLYYANK
+						masa: 1489.73674208
+				Jony:
+					JonB: 
+						sekwencja[4]: HPYF
+						masa: 545.25069462
+					JonY: 
+						sekwencja[11]: YAPELLYYANK
+						masa: 1342.66832817
+				Jony:
+					JonB: 
+						sekwencja[5]: HPYFY
+						masa: 708.314023153
+					JonY: 
+						sekwencja[10]: APELLYYANK
+						masa: 1179.60499963
+				Jony:
+					JonB: 
+						sekwencja[6]: HPYFYA
+						masa: 779.351136937
+					JonY: 
+						sekwencja[9]: PELLYYANK
+						masa: 1108.56788585
+				Jony:
+					JonB: 
+						sekwencja[7]: HPYFYAP
+						masa: 876.403900786
+					JonY: 
+						sekwencja[8]: ELLYYANK
+						masa: 1011.515122
+				Jony:
+					JonB: 
+						sekwencja[8]: HPYFYAPE
+						masa: 1005.44649387
+					JonY: 
+						sekwencja[7]: LLYYANK
+						masa: 882.472528911
+				Jony:
+					JonB: 
+						sekwencja[9]: HPYFYAPEL
+						masa: 1118.53055785
+					JonY: 
+						sekwencja[6]: LYYANK
+						masa: 769.388464934
+				Jony:
+					JonB: 
+						sekwencja[10]: HPYFYAPELL
+						masa: 1231.61462183
+					JonY: 
+						sekwencja[5]: YYANK
+						masa: 656.304400957
+				Jony:
+					JonB: 
+						sekwencja[11]: HPYFYAPELLY
+						masa: 1394.67795036
+					JonY: 
+						sekwencja[4]: YANK
+						masa: 493.241072424
+				Jony:
+					JonB: 
+						sekwencja[12]: HPYFYAPELLYY
+						masa: 1557.74127889
+					JonY: 
+						sekwencja[3]: ANK
+						masa: 330.177743892
+				Jony:
+					JonB: 
+						sekwencja[13]: HPYFYAPELLYYA
+						masa: 1628.77839268
+					JonY: 
+						sekwencja[2]: NK
+						masa: 259.140630107
+				Jony:
+					JonB: 
+						sekwencja[14]: HPYFYAPELLYYAN
+						masa: 1742.82132012
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[15]: HPYFYAPELLYYANK
+						masa: 1870.91628313
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[14]: YNGVFQECCQAEDK
+			masa: 1632.65484279
+			Jony[15]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[14]: YNGVFQECCQAEDK
+						masa: 1631.64701775
+				Jony:
+					JonB: 
+						sekwencja[1]: Y
+						masa: 164.070604999
+					JonY: 
+						sekwencja[13]: NGVFQECCQAEDK
+						masa: 1468.58368922
+				Jony:
+					JonB: 
+						sekwencja[2]: YN
+						masa: 278.113532441
+					JonY: 
+						sekwencja[12]: GVFQECCQAEDK
+						masa: 1354.54076178
+				Jony:
+					JonB: 
+						sekwencja[3]: YNG
+						masa: 335.134996161
+					JonY: 
+						sekwencja[11]: VFQECCQAEDK
+						masa: 1297.51929806
+				Jony:
+					JonB: 
+						sekwencja[4]: YNGV
+						masa: 434.203410074
+					JonY: 
+						sekwencja[10]: FQECCQAEDK
+						masa: 1198.45088415
+				Jony:
+					JonB: 
+						sekwencja[5]: YNGVF
+						masa: 581.271823987
+					JonY: 
+						sekwencja[9]: QECCQAEDK
+						masa: 1051.38247023
+				Jony:
+					JonB: 
+						sekwencja[6]: YNGVFQ
+						masa: 709.330401493
+					JonY: 
+						sekwencja[8]: ECCQAEDK
+						masa: 923.323892728
+				Jony:
+					JonB: 
+						sekwencja[7]: YNGVFQE
+						masa: 838.372994581
+					JonY: 
+						sekwencja[7]: CCQAEDK
+						masa: 794.28129964
+				Jony:
+					JonB: 
+						sekwencja[8]: YNGVFQEC
+						masa: 941.382179367
+					JonY: 
+						sekwencja[6]: CQAEDK
+						masa: 691.272114854
+				Jony:
+					JonB: 
+						sekwencja[9]: YNGVFQECC
+						masa: 1044.39136415
+					JonY: 
+						sekwencja[5]: QAEDK
+						masa: 588.262930068
+				Jony:
+					JonB: 
+						sekwencja[10]: YNGVFQECCQ
+						masa: 1172.44994166
+					JonY: 
+						sekwencja[4]: AEDK
+						masa: 460.204352562
+				Jony:
+					JonB: 
+						sekwencja[11]: YNGVFQECCQA
+						masa: 1243.48705544
+					JonY: 
+						sekwencja[3]: EDK
+						masa: 389.167238778
+				Jony:
+					JonB: 
+						sekwencja[12]: YNGVFQECCQAE
+						masa: 1372.52964853
+					JonY: 
+						sekwencja[2]: DK
+						masa: 260.12464569
+				Jony:
+					JonB: 
+						sekwencja[13]: YNGVFQECCQAED
+						masa: 1487.55659156
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[14]: YNGVFQECCQAEDK
+						masa: 1615.65155457
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[7]: GACLLPK
+			masa: 700.394181793
+			Jony[8]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[7]: GACLLPK
+						masa: 699.386356761
+				Jony:
+					JonB: 
+						sekwencja[1]: G
+						masa: 58.0287401874
+					JonY: 
+						sekwencja[6]: ACLLPK
+						masa: 642.36489304
+				Jony:
+					JonB: 
+						sekwencja[2]: GA
+						masa: 129.065853972
+					JonY: 
+						sekwencja[5]: CLLPK
+						masa: 571.327779255
+				Jony:
+					JonB: 
+						sekwencja[3]: GAC
+						masa: 232.075038759
+					JonY: 
+						sekwencja[4]: LLPK
+						masa: 468.318594469
+				Jony:
+					JonB: 
+						sekwencja[4]: GACL
+						masa: 345.159102736
+					JonY: 
+						sekwencja[3]: LPK
+						masa: 355.234530492
+				Jony:
+					JonB: 
+						sekwencja[5]: GACLL
+						masa: 458.243166713
+					JonY: 
+						sekwencja[2]: PK
+						masa: 242.150466515
+				Jony:
+					JonB: 
+						sekwencja[6]: GACLLP
+						masa: 555.295930562
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[7]: GACLLPK
+						masa: 683.390893576
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: IETMR
+			masa: 648.326496156
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: IETMR
+						masa: 647.318671124
+				Jony:
+					JonB: 
+						sekwencja[1]: I
+						masa: 114.091340444
+					JonY: 
+						sekwencja[4]: ETMR
+						masa: 534.234607147
+				Jony:
+					JonB: 
+						sekwencja[2]: IE
+						masa: 243.133933532
+					JonY: 
+						sekwencja[3]: TMR
+						masa: 405.192014059
+				Jony:
+					JonB: 
+						sekwencja[3]: IET
+						masa: 344.181612001
+					JonY: 
+						sekwencja[2]: MR
+						masa: 304.14433559
+				Jony:
+					JonB: 
+						sekwencja[4]: IETM
+						masa: 475.222096915
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[5]: IETMR
+						masa: 631.323207939
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: EK
+			masa: 275.148120786
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[1]: E
+						masa: 130.049869555
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: EK
+						masa: 258.144832569
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[7]: VLASSAR
+			masa: 702.402437976
+			Jony[8]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[7]: VLASSAR
+						masa: 701.394612944
+				Jony:
+					JonB: 
+						sekwencja[1]: V
+						masa: 100.07569038
+					JonY: 
+						sekwencja[6]: LASSAR
+						masa: 602.326199031
+				Jony:
+					JonB: 
+						sekwencja[2]: VL
+						masa: 213.159754357
+					JonY: 
+						sekwencja[5]: ASSAR
+						masa: 489.242135054
+				Jony:
+					JonB: 
+						sekwencja[3]: VLA
+						masa: 284.196868142
+					JonY: 
+						sekwencja[4]: SSAR
+						masa: 418.205021269
+				Jony:
+					JonB: 
+						sekwencja[4]: VLAS
+						masa: 371.228896546
+					JonY: 
+						sekwencja[3]: SAR
+						masa: 331.172992865
+				Jony:
+					JonB: 
+						sekwencja[5]: VLASS
+						masa: 458.260924951
+					JonY: 
+						sekwencja[2]: AR
+						masa: 244.14096446
+				Jony:
+					JonB: 
+						sekwencja[6]: VLASSA
+						masa: 529.298038735
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[7]: VLASSAR
+						masa: 685.399149759
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: QR
+			masa: 302.170253213
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: QR
+						masa: 301.162428181
+				Jony:
+					JonB: 
+						sekwencja[1]: Q
+						masa: 129.065853972
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[2]: QR
+						masa: 285.166964996
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: LR
+			masa: 287.195739685
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: LR
+						masa: 286.187914653
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[2]: LR
+						masa: 270.192451468
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[6]: CASIQK
+			masa: 648.326496156
+			Jony[7]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[6]: CASIQK
+						masa: 647.318671124
+				Jony:
+					JonB: 
+						sekwencja[1]: C
+						masa: 104.016461253
+					JonY: 
+						sekwencja[5]: ASIQK
+						masa: 544.309486337
+				Jony:
+					JonB: 
+						sekwencja[2]: CA
+						masa: 175.053575038
+					JonY: 
+						sekwencja[4]: SIQK
+						masa: 473.272372553
+				Jony:
+					JonB: 
+						sekwencja[3]: CAS
+						masa: 262.085603442
+					JonY: 
+						sekwencja[3]: IQK
+						masa: 386.240344148
+				Jony:
+					JonB: 
+						sekwencja[4]: CASI
+						masa: 375.169667419
+					JonY: 
+						sekwencja[2]: QK
+						masa: 273.156280171
+				Jony:
+					JonB: 
+						sekwencja[5]: CASIQ
+						masa: 503.228244925
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[6]: CASIQK
+						masa: 631.323207939
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: FGER
+			masa: 507.244146429
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: FGER
+						masa: 506.236321397
+				Jony:
+					JonB: 
+						sekwencja[1]: F
+						masa: 148.07569038
+					JonY: 
+						sekwencja[3]: GER
+						masa: 359.167907484
+				Jony:
+					JonB: 
+						sekwencja[2]: FG
+						masa: 205.097154101
+					JonY: 
+						sekwencja[2]: ER
+						masa: 302.146443764
+				Jony:
+					JonB: 
+						sekwencja[3]: FGE
+						masa: 334.139747189
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[4]: FGER
+						masa: 490.240858212
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[3]: ALK
+			masa: 330.22670546
+			Jony[4]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[3]: ALK
+						masa: 329.218880428
+				Jony:
+					JonB: 
+						sekwencja[1]: A
+						masa: 72.0443902516
+					JonY: 
+						sekwencja[2]: LK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[2]: AL
+						masa: 185.128454229
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[3]: ALK
+						masa: 313.223417243
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[6]: AWSVAR
+			masa: 688.365658545
+			Jony[7]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[6]: AWSVAR
+						masa: 687.357833512
+				Jony:
+					JonB: 
+						sekwencja[1]: A
+						masa: 72.0443902516
+					JonY: 
+						sekwencja[5]: WSVAR
+						masa: 616.320719728
+				Jony:
+					JonB: 
+						sekwencja[2]: AW
+						masa: 258.123703202
+					JonY: 
+						sekwencja[4]: SVAR
+						masa: 430.241406778
+				Jony:
+					JonB: 
+						sekwencja[3]: AWS
+						masa: 345.155731606
+					JonY: 
+						sekwencja[3]: VAR
+						masa: 343.209378373
+				Jony:
+					JonB: 
+						sekwencja[4]: AWSV
+						masa: 444.224145519
+					JonY: 
+						sekwencja[2]: AR
+						masa: 244.14096446
+				Jony:
+					JonB: 
+						sekwencja[5]: AWSVA
+						masa: 515.261259304
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[6]: AWSVAR
+						masa: 671.362370328
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: LSQK
+			masa: 474.280197585
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: LSQK
+						masa: 473.272372553
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[3]: SQK
+						masa: 360.188308576
+				Jony:
+					JonB: 
+						sekwencja[2]: LS
+						masa: 201.123368848
+					JonY: 
+						sekwencja[2]: QK
+						masa: 273.156280171
+				Jony:
+					JonB: 
+						sekwencja[3]: LSQ
+						masa: 329.181946354
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[4]: LSQK
+						masa: 457.276909368
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[3]: FPK
+			masa: 390.22670546
+			Jony[4]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[3]: FPK
+						masa: 389.218880428
+				Jony:
+					JonB: 
+						sekwencja[1]: F
+						masa: 148.07569038
+					JonY: 
+						sekwencja[2]: PK
+						masa: 242.150466515
+				Jony:
+					JonB: 
+						sekwencja[2]: FP
+						masa: 245.128454229
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[3]: FPK
+						masa: 373.223417243
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[8]: AEFVEVTK
+			masa: 921.480747866
+			Jony[9]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[8]: AEFVEVTK
+						masa: 920.472922834
+				Jony:
+					JonB: 
+						sekwencja[1]: A
+						masa: 72.0443902516
+					JonY: 
+						sekwencja[7]: EFVEVTK
+						masa: 849.43580905
+				Jony:
+					JonB: 
+						sekwencja[2]: AE
+						masa: 201.08698334
+					JonY: 
+						sekwencja[6]: FVEVTK
+						masa: 720.393215961
+				Jony:
+					JonB: 
+						sekwencja[3]: AEF
+						masa: 348.155397253
+					JonY: 
+						sekwencja[5]: VEVTK
+						masa: 573.324802048
+				Jony:
+					JonB: 
+						sekwencja[4]: AEFV
+						masa: 447.223811166
+					JonY: 
+						sekwencja[4]: EVTK
+						masa: 474.256388135
+				Jony:
+					JonB: 
+						sekwencja[5]: AEFVE
+						masa: 576.266404254
+					JonY: 
+						sekwencja[3]: VTK
+						masa: 345.213795047
+				Jony:
+					JonB: 
+						sekwencja[6]: AEFVEV
+						masa: 675.334818167
+					JonY: 
+						sekwencja[2]: TK
+						masa: 246.145381134
+				Jony:
+					JonB: 
+						sekwencja[7]: AEFVEVT
+						masa: 776.382496635
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[8]: AEFVEVTK
+						masa: 904.477459649
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[7]: LVTDLTK
+			masa: 788.464369526
+			Jony[8]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[7]: LVTDLTK
+						masa: 787.456544494
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[6]: VTDLTK
+						masa: 674.372480517
+				Jony:
+					JonB: 
+						sekwencja[2]: LV
+						masa: 213.159754357
+					JonY: 
+						sekwencja[5]: TDLTK
+						masa: 575.304066604
+				Jony:
+					JonB: 
+						sekwencja[3]: LVT
+						masa: 314.207432826
+					JonY: 
+						sekwencja[4]: DLTK
+						masa: 474.256388135
+				Jony:
+					JonB: 
+						sekwencja[4]: LVTD
+						masa: 429.234375849
+					JonY: 
+						sekwencja[3]: LTK
+						masa: 359.229445111
+				Jony:
+					JonB: 
+						sekwencja[5]: LVTDL
+						masa: 542.318439827
+					JonY: 
+						sekwencja[2]: TK
+						masa: 246.145381134
+				Jony:
+					JonB: 
+						sekwencja[6]: LVTDLT
+						masa: 643.366118295
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[7]: LVTDLTK
+						masa: 771.461081309
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[3]: VHK
+			masa: 382.23285347
+			Jony[4]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[3]: VHK
+						masa: 381.225028437
+				Jony:
+					JonB: 
+						sekwencja[1]: V
+						masa: 100.07569038
+					JonY: 
+						sekwencja[2]: HK
+						masa: 282.156614524
+				Jony:
+					JonB: 
+						sekwencja[2]: VH
+						masa: 237.134602239
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[3]: VHK
+						masa: 365.229565253
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[14]: ECCHGDLLECADDR
+			masa: 1577.59086263
+			Jony[15]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[14]: ECCHGDLLECADDR
+						masa: 1576.5830376
+				Jony:
+					JonB: 
+						sekwencja[1]: E
+						masa: 130.049869555
+					JonY: 
+						sekwencja[13]: CCHGDLLECADDR
+						masa: 1447.54044451
+				Jony:
+					JonB: 
+						sekwencja[2]: EC
+						masa: 233.059054341
+					JonY: 
+						sekwencja[12]: CHGDLLECADDR
+						masa: 1344.53125973
+				Jony:
+					JonB: 
+						sekwencja[3]: ECC
+						masa: 336.068239127
+					JonY: 
+						sekwencja[11]: HGDLLECADDR
+						masa: 1241.52207494
+				Jony:
+					JonB: 
+						sekwencja[4]: ECCH
+						masa: 473.127150986
+					JonY: 
+						sekwencja[10]: GDLLECADDR
+						masa: 1104.46316308
+				Jony:
+					JonB: 
+						sekwencja[5]: ECCHG
+						masa: 530.148614707
+					JonY: 
+						sekwencja[9]: DLLECADDR
+						masa: 1047.44169936
+				Jony:
+					JonB: 
+						sekwencja[6]: ECCHGD
+						masa: 645.175557731
+					JonY: 
+						sekwencja[8]: LLECADDR
+						masa: 932.414756337
+				Jony:
+					JonB: 
+						sekwencja[7]: ECCHGDL
+						masa: 758.259621708
+					JonY: 
+						sekwencja[7]: LECADDR
+						masa: 819.33069236
+				Jony:
+					JonB: 
+						sekwencja[8]: ECCHGDLL
+						masa: 871.343685685
+					JonY: 
+						sekwencja[6]: ECADDR
+						masa: 706.246628382
+				Jony:
+					JonB: 
+						sekwencja[9]: ECCHGDLLE
+						masa: 1000.38627877
+					JonY: 
+						sekwencja[5]: CADDR
+						masa: 577.204035294
+				Jony:
+					JonB: 
+						sekwencja[10]: ECCHGDLLEC
+						masa: 1103.39546356
+					JonY: 
+						sekwencja[4]: ADDR
+						masa: 474.194850508
+				Jony:
+					JonB: 
+						sekwencja[11]: ECCHGDLLECA
+						masa: 1174.43257734
+					JonY: 
+						sekwencja[3]: DDR
+						masa: 403.157736723
+				Jony:
+					JonB: 
+						sekwencja[12]: ECCHGDLLECAD
+						masa: 1289.45952037
+					JonY: 
+						sekwencja[2]: DR
+						masa: 288.130793699
+				Jony:
+					JonB: 
+						sekwencja[13]: ECCHGDLLECADD
+						masa: 1404.48646339
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[14]: ECCHGDLLECADDR
+						masa: 1560.58757442
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: ADLAK
+			masa: 516.290762268
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: ADLAK
+						masa: 515.282937236
+				Jony:
+					JonB: 
+						sekwencja[1]: A
+						masa: 72.0443902516
+					JonY: 
+						sekwencja[4]: DLAK
+						masa: 444.245823452
+				Jony:
+					JonB: 
+						sekwencja[2]: AD
+						masa: 187.071333275
+					JonY: 
+						sekwencja[3]: LAK
+						masa: 329.218880428
+				Jony:
+					JonB: 
+						sekwencja[3]: ADL
+						masa: 300.155397253
+					JonY: 
+						sekwencja[2]: AK
+						masa: 216.134816451
+				Jony:
+					JonB: 
+						sekwencja[4]: ADLA
+						masa: 371.192511037
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[5]: ADLAK
+						masa: 499.287474052
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[12]: YICDNQDTISSK
+			masa: 1385.61329524
+			Jony[13]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[12]: YICDNQDTISSK
+						masa: 1384.60547021
+				Jony:
+					JonB: 
+						sekwencja[1]: Y
+						masa: 164.070604999
+					JonY: 
+						sekwencja[11]: ICDNQDTISSK
+						masa: 1221.54214168
+				Jony:
+					JonB: 
+						sekwencja[2]: YI
+						masa: 277.154668977
+					JonY: 
+						sekwencja[10]: CDNQDTISSK
+						masa: 1108.4580777
+				Jony:
+					JonB: 
+						sekwencja[3]: YIC
+						masa: 380.163853763
+					JonY: 
+						sekwencja[9]: DNQDTISSK
+						masa: 1005.44889291
+				Jony:
+					JonB: 
+						sekwencja[4]: YICD
+						masa: 495.190796787
+					JonY: 
+						sekwencja[8]: NQDTISSK
+						masa: 890.421949891
+				Jony:
+					JonB: 
+						sekwencja[5]: YICDN
+						masa: 609.233724228
+					JonY: 
+						sekwencja[7]: QDTISSK
+						masa: 776.379022449
+				Jony:
+					JonB: 
+						sekwencja[6]: YICDNQ
+						masa: 737.292301733
+					JonY: 
+						sekwencja[6]: DTISSK
+						masa: 648.320444944
+				Jony:
+					JonB: 
+						sekwencja[7]: YICDNQD
+						masa: 852.319244757
+					JonY: 
+						sekwencja[5]: TISSK
+						masa: 533.29350192
+				Jony:
+					JonB: 
+						sekwencja[8]: YICDNQDT
+						masa: 953.366923226
+					JonY: 
+						sekwencja[4]: ISSK
+						masa: 432.245823452
+				Jony:
+					JonB: 
+						sekwencja[9]: YICDNQDTI
+						masa: 1066.4509872
+					JonY: 
+						sekwencja[3]: SSK
+						masa: 319.161759474
+				Jony:
+					JonB: 
+						sekwencja[10]: YICDNQDTIS
+						masa: 1153.48301561
+					JonY: 
+						sekwencja[2]: SK
+						masa: 232.12973107
+				Jony:
+					JonB: 
+						sekwencja[11]: YICDNQDTISS
+						masa: 1240.51504401
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[12]: YICDNQDTISSK
+						masa: 1368.61000703
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: LK
+			masa: 259.189591675
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: LK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: LK
+						masa: 242.186303458
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: ECCDK
+			masa: 596.193433382
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: ECCDK
+						masa: 595.18560835
+				Jony:
+					JonB: 
+						sekwencja[1]: E
+						masa: 130.049869555
+					JonY: 
+						sekwencja[4]: CCDK
+						masa: 466.143015262
+				Jony:
+					JonB: 
+						sekwencja[2]: EC
+						masa: 233.059054341
+					JonY: 
+						sekwencja[3]: CDK
+						masa: 363.133830476
+				Jony:
+					JonB: 
+						sekwencja[3]: ECC
+						masa: 336.068239127
+					JonY: 
+						sekwencja[2]: DK
+						masa: 260.12464569
+				Jony:
+					JonB: 
+						sekwencja[4]: ECCD
+						masa: 451.095182151
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[5]: ECCDK
+						masa: 579.190145165
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: PLLEK
+			masa: 598.369012589
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: PLLEK
+						masa: 597.361187557
+				Jony:
+					JonB: 
+						sekwencja[1]: P
+						masa: 98.0600403157
+					JonY: 
+						sekwencja[4]: LLEK
+						masa: 500.308423708
+				Jony:
+					JonB: 
+						sekwencja[2]: PL
+						masa: 211.144104293
+					JonY: 
+						sekwencja[3]: LEK
+						masa: 387.224359731
+				Jony:
+					JonB: 
+						sekwencja[3]: PLL
+						masa: 324.22816827
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[4]: PLLE
+						masa: 453.270761358
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[5]: PLLEK
+						masa: 581.365724372
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[9]: SHCIAEVEK
+			masa: 1014.4804306
+			Jony[10]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[9]: SHCIAEVEK
+						masa: 1013.47260557
+				Jony:
+					JonB: 
+						sekwencja[1]: S
+						masa: 88.0393048712
+					JonY: 
+						sekwencja[8]: HCIAEVEK
+						masa: 926.440577162
+				Jony:
+					JonB: 
+						sekwencja[2]: SH
+						masa: 225.09821673
+					JonY: 
+						sekwencja[7]: CIAEVEK
+						masa: 789.381665303
+				Jony:
+					JonB: 
+						sekwencja[3]: SHC
+						masa: 328.107401516
+					JonY: 
+						sekwencja[6]: IAEVEK
+						masa: 686.372480517
+				Jony:
+					JonB: 
+						sekwencja[4]: SHCI
+						masa: 441.191465493
+					JonY: 
+						sekwencja[5]: AEVEK
+						masa: 573.28841654
+				Jony:
+					JonB: 
+						sekwencja[5]: SHCIA
+						masa: 512.228579278
+					JonY: 
+						sekwencja[4]: EVEK
+						masa: 502.251302755
+				Jony:
+					JonB: 
+						sekwencja[6]: SHCIAE
+						masa: 641.271172366
+					JonY: 
+						sekwencja[3]: VEK
+						masa: 373.208709667
+				Jony:
+					JonB: 
+						sekwencja[7]: SHCIAEV
+						masa: 740.339586279
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[8]: SHCIAEVE
+						masa: 869.382179367
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[9]: SHCIAEVEK
+						masa: 997.477142381
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[18]: DAIPENLPPLTADFAEDK
+			masa: 1954.9523876
+			Jony[19]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[18]: DAIPENLPPLTADFAEDK
+						masa: 1953.94456257
+				Jony:
+					JonB: 
+						sekwencja[1]: D
+						masa: 116.034219491
+					JonY: 
+						sekwencja[17]: AIPENLPPLTADFAEDK
+						masa: 1838.91761955
+				Jony:
+					JonB: 
+						sekwencja[2]: DA
+						masa: 187.071333275
+					JonY: 
+						sekwencja[16]: IPENLPPLTADFAEDK
+						masa: 1767.88050576
+				Jony:
+					JonB: 
+						sekwencja[3]: DAI
+						masa: 300.155397253
+					JonY: 
+						sekwencja[15]: PENLPPLTADFAEDK
+						masa: 1654.79644178
+				Jony:
+					JonB: 
+						sekwencja[4]: DAIP
+						masa: 397.208161102
+					JonY: 
+						sekwencja[14]: ENLPPLTADFAEDK
+						masa: 1557.74367793
+				Jony:
+					JonB: 
+						sekwencja[5]: DAIPE
+						masa: 526.25075419
+					JonY: 
+						sekwencja[13]: NLPPLTADFAEDK
+						masa: 1428.70108485
+				Jony:
+					JonB: 
+						sekwencja[6]: DAIPEN
+						masa: 640.293681631
+					JonY: 
+						sekwencja[12]: LPPLTADFAEDK
+						masa: 1314.6581574
+				Jony:
+					JonB: 
+						sekwencja[7]: DAIPENL
+						masa: 753.377745608
+					JonY: 
+						sekwencja[11]: PPLTADFAEDK
+						masa: 1201.57409343
+				Jony:
+					JonB: 
+						sekwencja[8]: DAIPENLP
+						masa: 850.430509457
+					JonY: 
+						sekwencja[10]: PLTADFAEDK
+						masa: 1104.52132958
+				Jony:
+					JonB: 
+						sekwencja[9]: DAIPENLPP
+						masa: 947.483273306
+					JonY: 
+						sekwencja[9]: LTADFAEDK
+						masa: 1007.46856573
+				Jony:
+					JonB: 
+						sekwencja[10]: DAIPENLPPL
+						masa: 1060.56733728
+					JonY: 
+						sekwencja[8]: TADFAEDK
+						masa: 894.384501753
+				Jony:
+					JonB: 
+						sekwencja[11]: DAIPENLPPLT
+						masa: 1161.61501575
+					JonY: 
+						sekwencja[7]: ADFAEDK
+						masa: 793.336823284
+				Jony:
+					JonB: 
+						sekwencja[12]: DAIPENLPPLTA
+						masa: 1232.65212954
+					JonY: 
+						sekwencja[6]: DFAEDK
+						masa: 722.299709499
+				Jony:
+					JonB: 
+						sekwencja[13]: DAIPENLPPLTAD
+						masa: 1347.67907256
+					JonY: 
+						sekwencja[5]: FAEDK
+						masa: 607.272766476
+				Jony:
+					JonB: 
+						sekwencja[14]: DAIPENLPPLTADF
+						masa: 1494.74748647
+					JonY: 
+						sekwencja[4]: AEDK
+						masa: 460.204352562
+				Jony:
+					JonB: 
+						sekwencja[15]: DAIPENLPPLTADFA
+						masa: 1565.78460026
+					JonY: 
+						sekwencja[3]: EDK
+						masa: 389.167238778
+				Jony:
+					JonB: 
+						sekwencja[16]: DAIPENLPPLTADFAE
+						masa: 1694.82719335
+					JonY: 
+						sekwencja[2]: DK
+						masa: 260.12464569
+				Jony:
+					JonB: 
+						sekwencja[17]: DAIPENLPPLTADFAED
+						masa: 1809.85413637
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[18]: DAIPENLPPLTADFAEDK
+						masa: 1937.94909938
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: DVCK
+			masa: 463.210069421
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: DVCK
+						masa: 462.202244389
+				Jony:
+					JonB: 
+						sekwencja[1]: D
+						masa: 116.034219491
+					JonY: 
+						sekwencja[3]: VCK
+						masa: 347.175301365
+				Jony:
+					JonB: 
+						sekwencja[2]: DV
+						masa: 215.102633404
+					JonY: 
+						sekwencja[2]: CK
+						masa: 248.106887452
+				Jony:
+					JonB: 
+						sekwencja[3]: DVC
+						masa: 318.11181819
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[4]: DVCK
+						masa: 446.206781204
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[6]: NYQEAK
+			masa: 751.35006805
+			Jony[7]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[6]: NYQEAK
+						masa: 750.342243018
+				Jony:
+					JonB: 
+						sekwencja[1]: N
+						masa: 115.050203908
+					JonY: 
+						sekwencja[5]: YQEAK
+						masa: 636.299315577
+				Jony:
+					JonB: 
+						sekwencja[2]: NY
+						masa: 278.113532441
+					JonY: 
+						sekwencja[4]: QEAK
+						masa: 473.235987044
+				Jony:
+					JonB: 
+						sekwencja[3]: NYQ
+						masa: 406.172109946
+					JonY: 
+						sekwencja[3]: EAK
+						masa: 345.177409539
+				Jony:
+					JonB: 
+						sekwencja[4]: NYQE
+						masa: 535.214703034
+					JonY: 
+						sekwencja[2]: AK
+						masa: 216.134816451
+				Jony:
+					JonB: 
+						sekwencja[5]: NYQEA
+						masa: 606.251816819
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[6]: NYQEAK
+						masa: 734.346779833
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[13]: DAFLGSFLYEYSR
+			masa: 1566.73545898
+			Jony[14]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[13]: DAFLGSFLYEYSR
+						masa: 1565.72763395
+				Jony:
+					JonB: 
+						sekwencja[1]: D
+						masa: 116.034219491
+					JonY: 
+						sekwencja[12]: AFLGSFLYEYSR
+						masa: 1450.70069092
+				Jony:
+					JonB: 
+						sekwencja[2]: DA
+						masa: 187.071333275
+					JonY: 
+						sekwencja[11]: FLGSFLYEYSR
+						masa: 1379.66357714
+				Jony:
+					JonB: 
+						sekwencja[3]: DAF
+						masa: 334.139747189
+					JonY: 
+						sekwencja[10]: LGSFLYEYSR
+						masa: 1232.59516323
+				Jony:
+					JonB: 
+						sekwencja[4]: DAFL
+						masa: 447.223811166
+					JonY: 
+						sekwencja[9]: GSFLYEYSR
+						masa: 1119.51109925
+				Jony:
+					JonB: 
+						sekwencja[5]: DAFLG
+						masa: 504.245274886
+					JonY: 
+						sekwencja[8]: SFLYEYSR
+						masa: 1062.48963553
+				Jony:
+					JonB: 
+						sekwencja[6]: DAFLGS
+						masa: 591.277303291
+					JonY: 
+						sekwencja[7]: FLYEYSR
+						masa: 975.457607123
+				Jony:
+					JonB: 
+						sekwencja[7]: DAFLGSF
+						masa: 738.345717204
+					JonY: 
+						sekwencja[6]: LYEYSR
+						masa: 828.38919321
+				Jony:
+					JonB: 
+						sekwencja[8]: DAFLGSFL
+						masa: 851.429781181
+					JonY: 
+						sekwencja[5]: YEYSR
+						masa: 715.305129233
+				Jony:
+					JonB: 
+						sekwencja[9]: DAFLGSFLY
+						masa: 1014.49310971
+					JonY: 
+						sekwencja[4]: EYSR
+						masa: 552.2418007
+				Jony:
+					JonB: 
+						sekwencja[10]: DAFLGSFLYE
+						masa: 1143.5357028
+					JonY: 
+						sekwencja[3]: YSR
+						masa: 423.199207612
+				Jony:
+					JonB: 
+						sekwencja[11]: DAFLGSFLYEY
+						masa: 1306.59903133
+					JonY: 
+						sekwencja[2]: SR
+						masa: 260.13587908
+				Jony:
+					JonB: 
+						sekwencja[12]: DAFLGSFLYEYS
+						masa: 1393.63105974
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[13]: DAFLGSFLYEYSR
+						masa: 1549.73217076
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[1]: R
+			masa: 174.111675708
+			Jony[2]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[1]: R
+						masa: 157.108387491
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[11]: HPEYAVSVLLR
+			masa: 1282.70337101
+			Jony[12]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[11]: HPEYAVSVLLR
+						masa: 1281.69554597
+				Jony:
+					JonB: 
+						sekwencja[1]: H
+						masa: 138.066188325
+					JonY: 
+						sekwencja[10]: PEYAVSVLLR
+						masa: 1144.63663411
+				Jony:
+					JonB: 
+						sekwencja[2]: HP
+						masa: 235.118952174
+					JonY: 
+						sekwencja[9]: EYAVSVLLR
+						masa: 1047.58387027
+				Jony:
+					JonB: 
+						sekwencja[3]: HPE
+						masa: 364.161545262
+					JonY: 
+						sekwencja[8]: YAVSVLLR
+						masa: 918.541277178
+				Jony:
+					JonB: 
+						sekwencja[4]: HPEY
+						masa: 527.224873795
+					JonY: 
+						sekwencja[7]: AVSVLLR
+						masa: 755.477948645
+				Jony:
+					JonB: 
+						sekwencja[5]: HPEYA
+						masa: 598.26198758
+					JonY: 
+						sekwencja[6]: VSVLLR
+						masa: 684.44083486
+				Jony:
+					JonB: 
+						sekwencja[6]: HPEYAV
+						masa: 697.330401493
+					JonY: 
+						sekwencja[5]: SVLLR
+						masa: 585.372420947
+				Jony:
+					JonB: 
+						sekwencja[7]: HPEYAVS
+						masa: 784.362429897
+					JonY: 
+						sekwencja[4]: VLLR
+						masa: 498.340392543
+				Jony:
+					JonB: 
+						sekwencja[8]: HPEYAVSV
+						masa: 883.43084381
+					JonY: 
+						sekwencja[3]: LLR
+						masa: 399.27197863
+				Jony:
+					JonB: 
+						sekwencja[9]: HPEYAVSVL
+						masa: 996.514907787
+					JonY: 
+						sekwencja[2]: LR
+						masa: 286.187914653
+				Jony:
+					JonB: 
+						sekwencja[10]: HPEYAVSVLL
+						masa: 1109.59897176
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[11]: HPEYAVSVLLR
+						masa: 1265.70008279
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[3]: LAK
+			masa: 330.22670546
+			Jony[4]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[3]: LAK
+						masa: 329.218880428
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[2]: AK
+						masa: 216.134816451
+				Jony:
+					JonB: 
+						sekwencja[2]: LA
+						masa: 185.128454229
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[3]: LAK
+						masa: 313.223417243
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[12]: EYEATLEECCAK
+			masa: 1387.56356817
+			Jony[13]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[12]: EYEATLEECCAK
+						masa: 1386.55574314
+				Jony:
+					JonB: 
+						sekwencja[1]: E
+						masa: 130.049869555
+					JonY: 
+						sekwencja[11]: YEATLEECCAK
+						masa: 1257.51315005
+				Jony:
+					JonB: 
+						sekwencja[2]: EY
+						masa: 293.113198087
+					JonY: 
+						sekwencja[10]: EATLEECCAK
+						masa: 1094.44982152
+				Jony:
+					JonB: 
+						sekwencja[3]: EYE
+						masa: 422.155791176
+					JonY: 
+						sekwencja[9]: ATLEECCAK
+						masa: 965.40722843
+				Jony:
+					JonB: 
+						sekwencja[4]: EYEA
+						masa: 493.19290496
+					JonY: 
+						sekwencja[8]: TLEECCAK
+						masa: 894.370114645
+				Jony:
+					JonB: 
+						sekwencja[5]: EYEAT
+						masa: 594.240583429
+					JonY: 
+						sekwencja[7]: LEECCAK
+						masa: 793.322436176
+				Jony:
+					JonB: 
+						sekwencja[6]: EYEATL
+						masa: 707.324647406
+					JonY: 
+						sekwencja[6]: EECCAK
+						masa: 680.238372199
+				Jony:
+					JonB: 
+						sekwencja[7]: EYEATLE
+						masa: 836.367240494
+					JonY: 
+						sekwencja[5]: ECCAK
+						masa: 551.195779111
+				Jony:
+					JonB: 
+						sekwencja[8]: EYEATLEE
+						masa: 965.409833582
+					JonY: 
+						sekwencja[4]: CCAK
+						masa: 422.153186023
+				Jony:
+					JonB: 
+						sekwencja[9]: EYEATLEEC
+						masa: 1068.41901837
+					JonY: 
+						sekwencja[3]: CAK
+						masa: 319.144001237
+				Jony:
+					JonB: 
+						sekwencja[10]: EYEATLEECC
+						masa: 1171.42820315
+					JonY: 
+						sekwencja[2]: AK
+						masa: 216.134816451
+				Jony:
+					JonB: 
+						sekwencja[11]: EYEATLEECCA
+						masa: 1242.46531694
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[12]: EYEATLEECCAK
+						masa: 1370.56027995
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[13]: DDPHACYSTVFDK
+			masa: 1496.62419428
+			Jony[14]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[13]: DDPHACYSTVFDK
+						masa: 1495.61636925
+				Jony:
+					JonB: 
+						sekwencja[1]: D
+						masa: 116.034219491
+					JonY: 
+						sekwencja[12]: DPHACYSTVFDK
+						masa: 1380.58942622
+				Jony:
+					JonB: 
+						sekwencja[2]: DD
+						masa: 231.061162515
+					JonY: 
+						sekwencja[11]: PHACYSTVFDK
+						masa: 1265.5624832
+				Jony:
+					JonB: 
+						sekwencja[3]: DDP
+						masa: 328.113926364
+					JonY: 
+						sekwencja[10]: HACYSTVFDK
+						masa: 1168.50971935
+				Jony:
+					JonB: 
+						sekwencja[4]: DDPH
+						masa: 465.172838222
+					JonY: 
+						sekwencja[9]: ACYSTVFDK
+						masa: 1031.45080749
+				Jony:
+					JonB: 
+						sekwencja[5]: DDPHA
+						masa: 536.209952007
+					JonY: 
+						sekwencja[8]: CYSTVFDK
+						masa: 960.413693708
+				Jony:
+					JonB: 
+						sekwencja[6]: DDPHAC
+						masa: 639.219136793
+					JonY: 
+						sekwencja[7]: YSTVFDK
+						masa: 857.404508921
+				Jony:
+					JonB: 
+						sekwencja[7]: DDPHACY
+						masa: 802.282465326
+					JonY: 
+						sekwencja[6]: STVFDK
+						masa: 694.341180389
+				Jony:
+					JonB: 
+						sekwencja[8]: DDPHACYS
+						masa: 889.31449373
+					JonY: 
+						sekwencja[5]: TVFDK
+						masa: 607.309151984
+				Jony:
+					JonB: 
+						sekwencja[9]: DDPHACYST
+						masa: 990.362172199
+					JonY: 
+						sekwencja[4]: VFDK
+						masa: 506.261473516
+				Jony:
+					JonB: 
+						sekwencja[10]: DDPHACYSTV
+						masa: 1089.43058611
+					JonY: 
+						sekwencja[3]: FDK
+						masa: 407.193059603
+				Jony:
+					JonB: 
+						sekwencja[11]: DDPHACYSTVF
+						masa: 1236.49900002
+					JonY: 
+						sekwencja[2]: DK
+						masa: 260.12464569
+				Jony:
+					JonB: 
+						sekwencja[12]: DDPHACYSTVFD
+						masa: 1351.52594305
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[13]: DDPHACYSTVFDK
+						masa: 1479.62090606
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: LK
+			masa: 259.189591675
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: LK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: LK
+						masa: 242.186303458
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[11]: HLVDEPQNLIK
+			masa: 1304.70885031
+			Jony[12]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[11]: HLVDEPQNLIK
+						masa: 1303.70102528
+				Jony:
+					JonB: 
+						sekwencja[1]: H
+						masa: 138.066188325
+					JonY: 
+						sekwencja[10]: LVDEPQNLIK
+						masa: 1166.64211342
+				Jony:
+					JonB: 
+						sekwencja[2]: HL
+						masa: 251.150252303
+					JonY: 
+						sekwencja[9]: VDEPQNLIK
+						masa: 1053.55804944
+				Jony:
+					JonB: 
+						sekwencja[3]: HLV
+						masa: 350.218666216
+					JonY: 
+						sekwencja[8]: DEPQNLIK
+						masa: 954.489635528
+				Jony:
+					JonB: 
+						sekwencja[4]: HLVD
+						masa: 465.24560924
+					JonY: 
+						sekwencja[7]: EPQNLIK
+						masa: 839.462692504
+				Jony:
+					JonB: 
+						sekwencja[5]: HLVDE
+						masa: 594.288202328
+					JonY: 
+						sekwencja[6]: PQNLIK
+						masa: 710.420099416
+				Jony:
+					JonB: 
+						sekwencja[6]: HLVDEP
+						masa: 691.340966177
+					JonY: 
+						sekwencja[5]: QNLIK
+						masa: 613.367335567
+				Jony:
+					JonB: 
+						sekwencja[7]: HLVDEPQ
+						masa: 819.399543682
+					JonY: 
+						sekwencja[4]: NLIK
+						masa: 485.308758061
+				Jony:
+					JonB: 
+						sekwencja[8]: HLVDEPQN
+						masa: 933.442471123
+					JonY: 
+						sekwencja[3]: LIK
+						masa: 371.26583062
+				Jony:
+					JonB: 
+						sekwencja[9]: HLVDEPQNL
+						masa: 1046.5265351
+					JonY: 
+						sekwencja[2]: IK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[10]: HLVDEPQNLI
+						masa: 1159.61059908
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[11]: HLVDEPQNLIK
+						masa: 1287.70556209
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[8]: QNCDQFEK
+			masa: 1010.41274496
+			Jony[9]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[8]: QNCDQFEK
+						masa: 1009.40491993
+				Jony:
+					JonB: 
+						sekwencja[1]: Q
+						masa: 129.065853972
+					JonY: 
+						sekwencja[7]: NCDQFEK
+						masa: 881.346342424
+				Jony:
+					JonB: 
+						sekwencja[2]: QN
+						masa: 243.108781413
+					JonY: 
+						sekwencja[6]: CDQFEK
+						masa: 767.303414982
+				Jony:
+					JonB: 
+						sekwencja[3]: QNC
+						masa: 346.1179662
+					JonY: 
+						sekwencja[5]: DQFEK
+						masa: 664.294230196
+				Jony:
+					JonB: 
+						sekwencja[4]: QNCD
+						masa: 461.144909224
+					JonY: 
+						sekwencja[4]: QFEK
+						masa: 549.267287172
+				Jony:
+					JonB: 
+						sekwencja[5]: QNCDQ
+						masa: 589.203486729
+					JonY: 
+						sekwencja[3]: FEK
+						masa: 421.208709667
+				Jony:
+					JonB: 
+						sekwencja[6]: QNCDQF
+						masa: 736.271900642
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[7]: QNCDQFE
+						masa: 865.31449373
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[8]: QNCDQFEK
+						masa: 993.409456744
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[13]: LGEYGFQNALIVR
+			masa: 1478.78816326
+			Jony[14]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[13]: LGEYGFQNALIVR
+						masa: 1477.78033823
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[12]: GEYGFQNALIVR
+						masa: 1364.69627425
+				Jony:
+					JonB: 
+						sekwencja[2]: LG
+						masa: 171.112804165
+					JonY: 
+						sekwencja[11]: EYGFQNALIVR
+						masa: 1307.67481053
+				Jony:
+					JonB: 
+						sekwencja[3]: LGE
+						masa: 300.155397253
+					JonY: 
+						sekwencja[10]: YGFQNALIVR
+						masa: 1178.63221744
+				Jony:
+					JonB: 
+						sekwencja[4]: LGEY
+						masa: 463.218725785
+					JonY: 
+						sekwencja[9]: GFQNALIVR
+						masa: 1015.56888891
+				Jony:
+					JonB: 
+						sekwencja[5]: LGEYG
+						masa: 520.240189506
+					JonY: 
+						sekwencja[8]: FQNALIVR
+						masa: 958.547425187
+				Jony:
+					JonB: 
+						sekwencja[6]: LGEYGF
+						masa: 667.308603419
+					JonY: 
+						sekwencja[7]: QNALIVR
+						masa: 811.479011274
+				Jony:
+					JonB: 
+						sekwencja[7]: LGEYGFQ
+						masa: 795.367180924
+					JonY: 
+						sekwencja[6]: NALIVR
+						masa: 683.420433769
+				Jony:
+					JonB: 
+						sekwencja[8]: LGEYGFQN
+						masa: 909.410108366
+					JonY: 
+						sekwencja[5]: ALIVR
+						masa: 569.377506328
+				Jony:
+					JonB: 
+						sekwencja[9]: LGEYGFQNA
+						masa: 980.44722215
+					JonY: 
+						sekwencja[4]: LIVR
+						masa: 498.340392543
+				Jony:
+					JonB: 
+						sekwencja[10]: LGEYGFQNAL
+						masa: 1093.53128613
+					JonY: 
+						sekwencja[3]: IVR
+						masa: 385.256328566
+				Jony:
+					JonB: 
+						sekwencja[11]: LGEYGFQNALI
+						masa: 1206.6153501
+					JonY: 
+						sekwencja[2]: VR
+						masa: 272.172264589
+				Jony:
+					JonB: 
+						sekwencja[12]: LGEYGFQNALIV
+						masa: 1305.68376402
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[13]: LGEYGFQNALIVR
+						masa: 1461.78487504
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[3]: YTR
+			masa: 438.222682709
+			Jony[4]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[3]: YTR
+						masa: 437.214857677
+				Jony:
+					JonB: 
+						sekwencja[1]: Y
+						masa: 164.070604999
+					JonY: 
+						sekwencja[2]: TR
+						masa: 274.151529144
+				Jony:
+					JonB: 
+						sekwencja[2]: YT
+						masa: 265.118283468
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[3]: YTR
+						masa: 421.219394492
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[1]: K
+			masa: 146.105527698
+			Jony[2]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[1]: K
+						masa: 129.102239481
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[14]: VPQVSTPTLVEVSR
+			masa: 1510.83550737
+			Jony[15]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[14]: VPQVSTPTLVEVSR
+						masa: 1509.82768234
+				Jony:
+					JonB: 
+						sekwencja[1]: V
+						masa: 100.07569038
+					JonY: 
+						sekwencja[13]: PQVSTPTLVEVSR
+						masa: 1410.75926843
+				Jony:
+					JonB: 
+						sekwencja[2]: VP
+						masa: 197.128454229
+					JonY: 
+						sekwencja[12]: QVSTPTLVEVSR
+						masa: 1313.70650458
+				Jony:
+					JonB: 
+						sekwencja[3]: VPQ
+						masa: 325.187031734
+					JonY: 
+						sekwencja[11]: VSTPTLVEVSR
+						masa: 1185.64792707
+				Jony:
+					JonB: 
+						sekwencja[4]: VPQV
+						masa: 424.255445647
+					JonY: 
+						sekwencja[10]: STPTLVEVSR
+						masa: 1086.57951316
+				Jony:
+					JonB: 
+						sekwencja[5]: VPQVS
+						masa: 511.287474052
+					JonY: 
+						sekwencja[9]: TPTLVEVSR
+						masa: 999.547484757
+				Jony:
+					JonB: 
+						sekwencja[6]: VPQVST
+						masa: 612.33515252
+					JonY: 
+						sekwencja[8]: PTLVEVSR
+						masa: 898.499806289
+				Jony:
+					JonB: 
+						sekwencja[7]: VPQVSTP
+						masa: 709.387916369
+					JonY: 
+						sekwencja[7]: TLVEVSR
+						masa: 801.44704244
+				Jony:
+					JonB: 
+						sekwencja[8]: VPQVSTPT
+						masa: 810.435594837
+					JonY: 
+						sekwencja[6]: LVEVSR
+						masa: 700.399363971
+				Jony:
+					JonB: 
+						sekwencja[9]: VPQVSTPTL
+						masa: 923.519658815
+					JonY: 
+						sekwencja[5]: VEVSR
+						masa: 587.315299994
+				Jony:
+					JonB: 
+						sekwencja[10]: VPQVSTPTLV
+						masa: 1022.58807273
+					JonY: 
+						sekwencja[4]: EVSR
+						masa: 488.246886081
+				Jony:
+					JonB: 
+						sekwencja[11]: VPQVSTPTLVE
+						masa: 1151.63066582
+					JonY: 
+						sekwencja[3]: VSR
+						masa: 359.204292993
+				Jony:
+					JonB: 
+						sekwencja[12]: VPQVSTPTLVEV
+						masa: 1250.69907973
+					JonY: 
+						sekwencja[2]: SR
+						masa: 260.13587908
+				Jony:
+					JonB: 
+						sekwencja[13]: VPQVSTPTLVEVS
+						masa: 1337.73110813
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[14]: VPQVSTPTLVEVSR
+						masa: 1493.83221916
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: SLGK
+			masa: 403.2430838
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: SLGK
+						masa: 402.235258768
+				Jony:
+					JonB: 
+						sekwencja[1]: S
+						masa: 88.0393048712
+					JonY: 
+						sekwencja[3]: LGK
+						masa: 315.203230364
+				Jony:
+					JonB: 
+						sekwencja[2]: SL
+						masa: 201.123368848
+					JonY: 
+						sekwencja[2]: GK
+						masa: 202.119166386
+				Jony:
+					JonB: 
+						sekwencja[3]: SLG
+						masa: 258.144832569
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[4]: SLGK
+						masa: 386.239795583
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: VGTR
+			masa: 431.24923181
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: VGTR
+						masa: 430.241406778
+				Jony:
+					JonB: 
+						sekwencja[1]: V
+						masa: 100.07569038
+					JonY: 
+						sekwencja[3]: GTR
+						masa: 331.172992865
+				Jony:
+					JonB: 
+						sekwencja[2]: VG
+						masa: 157.097154101
+					JonY: 
+						sekwencja[2]: TR
+						masa: 274.151529144
+				Jony:
+					JonB: 
+						sekwencja[3]: VGT
+						masa: 258.144832569
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[4]: VGTR
+						masa: 414.245943593
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[4]: CCTK
+			masa: 453.171575739
+			Jony[5]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[4]: CCTK
+						masa: 452.163750707
+				Jony:
+					JonB: 
+						sekwencja[1]: C
+						masa: 104.016461253
+					JonY: 
+						sekwencja[3]: CTK
+						masa: 349.154565921
+				Jony:
+					JonB: 
+						sekwencja[2]: CC
+						masa: 207.025646039
+					JonY: 
+						sekwencja[2]: TK
+						masa: 246.145381134
+				Jony:
+					JonB: 
+						sekwencja[3]: CCT
+						masa: 308.073324508
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[4]: CCTK
+						masa: 436.168287522
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: PESER
+			masa: 616.281654137
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: PESER
+						masa: 615.273829105
+				Jony:
+					JonB: 
+						sekwencja[1]: P
+						masa: 98.0600403157
+					JonY: 
+						sekwencja[4]: ESER
+						masa: 518.221065256
+				Jony:
+					JonB: 
+						sekwencja[2]: PE
+						masa: 227.102633404
+					JonY: 
+						sekwencja[3]: SER
+						masa: 389.178472168
+				Jony:
+					JonB: 
+						sekwencja[3]: PES
+						masa: 314.134661808
+					JonY: 
+						sekwencja[2]: ER
+						masa: 302.146443764
+				Jony:
+					JonB: 
+						sekwencja[4]: PESE
+						masa: 443.177254896
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[5]: PESER
+						masa: 599.27836592
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[14]: MPCTEDYLSLILNR
+			masa: 1666.80586412
+			Jony[15]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[14]: MPCTEDYLSLILNR
+						masa: 1665.79803909
+				Jony:
+					JonB: 
+						sekwencja[1]: M
+						masa: 132.047761381
+					JonY: 
+						sekwencja[13]: PCTEDYLSLILNR
+						masa: 1534.75755418
+				Jony:
+					JonB: 
+						sekwencja[2]: MP
+						masa: 229.10052523
+					JonY: 
+						sekwencja[12]: CTEDYLSLILNR
+						masa: 1437.70479033
+				Jony:
+					JonB: 
+						sekwencja[3]: MPC
+						masa: 332.109710017
+					JonY: 
+						sekwencja[11]: TEDYLSLILNR
+						masa: 1334.69560554
+				Jony:
+					JonB: 
+						sekwencja[4]: MPCT
+						masa: 433.157388485
+					JonY: 
+						sekwencja[10]: EDYLSLILNR
+						masa: 1233.64792707
+				Jony:
+					JonB: 
+						sekwencja[5]: MPCTE
+						masa: 562.199981573
+					JonY: 
+						sekwencja[9]: DYLSLILNR
+						masa: 1104.60533399
+				Jony:
+					JonB: 
+						sekwencja[6]: MPCTED
+						masa: 677.226924597
+					JonY: 
+						sekwencja[8]: YLSLILNR
+						masa: 989.578390963
+				Jony:
+					JonB: 
+						sekwencja[7]: MPCTEDY
+						masa: 840.29025313
+					JonY: 
+						sekwencja[7]: LSLILNR
+						masa: 826.51506243
+				Jony:
+					JonB: 
+						sekwencja[8]: MPCTEDYL
+						masa: 953.374317107
+					JonY: 
+						sekwencja[6]: SLILNR
+						masa: 713.430998453
+				Jony:
+					JonB: 
+						sekwencja[9]: MPCTEDYLS
+						masa: 1040.40634551
+					JonY: 
+						sekwencja[5]: LILNR
+						masa: 626.398970048
+				Jony:
+					JonB: 
+						sekwencja[10]: MPCTEDYLSL
+						masa: 1153.49040949
+					JonY: 
+						sekwencja[4]: ILNR
+						masa: 513.314906071
+				Jony:
+					JonB: 
+						sekwencja[11]: MPCTEDYLSLI
+						masa: 1266.57447347
+					JonY: 
+						sekwencja[3]: LNR
+						masa: 400.230842094
+				Jony:
+					JonB: 
+						sekwencja[12]: MPCTEDYLSLIL
+						masa: 1379.65853744
+					JonY: 
+						sekwencja[2]: NR
+						masa: 287.146778117
+				Jony:
+					JonB: 
+						sekwencja[13]: MPCTEDYLSLILN
+						masa: 1493.70146488
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[14]: MPCTEDYLSLILNR
+						masa: 1649.80257591
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[7]: LCVLHEK
+			masa: 840.452759298
+			Jony[8]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[7]: LCVLHEK
+						masa: 839.444934266
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[6]: CVLHEK
+						masa: 726.360870289
+				Jony:
+					JonB: 
+						sekwencja[2]: LC
+						masa: 217.10052523
+					JonY: 
+						sekwencja[5]: VLHEK
+						masa: 623.351685503
+				Jony:
+					JonB: 
+						sekwencja[3]: LCV
+						masa: 316.168939143
+					JonY: 
+						sekwencja[4]: LHEK
+						masa: 524.28327159
+				Jony:
+					JonB: 
+						sekwencja[4]: LCVL
+						masa: 429.253003121
+					JonY: 
+						sekwencja[3]: HEK
+						masa: 411.199207612
+				Jony:
+					JonB: 
+						sekwencja[5]: LCVLH
+						masa: 566.311914979
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[6]: LCVLHE
+						masa: 695.354508067
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[7]: LCVLHEK
+						masa: 823.449471081
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[6]: TPVSEK
+			masa: 659.349005421
+			Jony[7]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[6]: TPVSEK
+						masa: 658.341180389
+				Jony:
+					JonB: 
+						sekwencja[1]: T
+						masa: 102.054954935
+					JonY: 
+						sekwencja[5]: PVSEK
+						masa: 557.29350192
+				Jony:
+					JonB: 
+						sekwencja[2]: TP
+						masa: 199.107718784
+					JonY: 
+						sekwencja[4]: VSEK
+						masa: 460.240738071
+				Jony:
+					JonB: 
+						sekwencja[3]: TPV
+						masa: 298.176132697
+					JonY: 
+						sekwencja[3]: SEK
+						masa: 361.172324158
+				Jony:
+					JonB: 
+						sekwencja[4]: TPVS
+						masa: 385.208161102
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[5]: TPVSE
+						masa: 514.25075419
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[6]: TPVSEK
+						masa: 642.345717204
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[3]: VTK
+			masa: 346.221620079
+			Jony[4]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[3]: VTK
+						masa: 345.213795047
+				Jony:
+					JonB: 
+						sekwencja[1]: V
+						masa: 100.07569038
+					JonY: 
+						sekwencja[2]: TK
+						masa: 246.145381134
+				Jony:
+					JonB: 
+						sekwencja[2]: VT
+						masa: 201.123368848
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[3]: VTK
+						masa: 329.218331862
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[9]: CCTESLVNR
+			masa: 1023.44775057
+			Jony[10]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[9]: CCTESLVNR
+						masa: 1022.43992554
+				Jony:
+					JonB: 
+						sekwencja[1]: C
+						masa: 104.016461253
+					JonY: 
+						sekwencja[8]: CTESLVNR
+						masa: 919.430740754
+				Jony:
+					JonB: 
+						sekwencja[2]: CC
+						masa: 207.025646039
+					JonY: 
+						sekwencja[7]: TESLVNR
+						masa: 816.421555968
+				Jony:
+					JonB: 
+						sekwencja[3]: CCT
+						masa: 308.073324508
+					JonY: 
+						sekwencja[6]: ESLVNR
+						masa: 715.373877499
+				Jony:
+					JonB: 
+						sekwencja[4]: CCTE
+						masa: 437.115917596
+					JonY: 
+						sekwencja[5]: SLVNR
+						masa: 586.331284411
+				Jony:
+					JonB: 
+						sekwencja[5]: CCTES
+						masa: 524.147946
+					JonY: 
+						sekwencja[4]: LVNR
+						masa: 499.299256007
+				Jony:
+					JonB: 
+						sekwencja[6]: CCTESL
+						masa: 637.232009977
+					JonY: 
+						sekwencja[3]: VNR
+						masa: 386.21519203
+				Jony:
+					JonB: 
+						sekwencja[7]: CCTESLV
+						masa: 736.30042389
+					JonY: 
+						sekwencja[2]: NR
+						masa: 287.146778117
+				Jony:
+					JonB: 
+						sekwencja[8]: CCTESLVN
+						masa: 850.343351332
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[9]: CCTESLVNR
+						masa: 1006.44446236
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[1]: R
+			masa: 174.111675708
+			Jony[2]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[1]: R
+						masa: 173.103850675
+				Jony:
+					JonB: 
+						sekwencja[1]: R
+						masa: 157.108387491
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[15]: PCFSALTPDETYVPK
+			masa: 1666.7912596
+			Jony[16]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[15]: PCFSALTPDETYVPK
+						masa: 1665.78343457
+				Jony:
+					JonB: 
+						sekwencja[1]: P
+						masa: 98.0600403157
+					JonY: 
+						sekwencja[14]: CFSALTPDETYVPK
+						masa: 1568.73067072
+				Jony:
+					JonB: 
+						sekwencja[2]: PC
+						masa: 201.069225102
+					JonY: 
+						sekwencja[13]: FSALTPDETYVPK
+						masa: 1465.72148594
+				Jony:
+					JonB: 
+						sekwencja[3]: PCF
+						masa: 348.137639015
+					JonY: 
+						sekwencja[12]: SALTPDETYVPK
+						masa: 1318.65307202
+				Jony:
+					JonB: 
+						sekwencja[4]: PCFS
+						masa: 435.169667419
+					JonY: 
+						sekwencja[11]: ALTPDETYVPK
+						masa: 1231.62104362
+				Jony:
+					JonB: 
+						sekwencja[5]: PCFSA
+						masa: 506.206781204
+					JonY: 
+						sekwencja[10]: LTPDETYVPK
+						masa: 1160.58392984
+				Jony:
+					JonB: 
+						sekwencja[6]: PCFSAL
+						masa: 619.290845181
+					JonY: 
+						sekwencja[9]: TPDETYVPK
+						masa: 1047.49986586
+				Jony:
+					JonB: 
+						sekwencja[7]: PCFSALT
+						masa: 720.33852365
+					JonY: 
+						sekwencja[8]: PDETYVPK
+						masa: 946.45218739
+				Jony:
+					JonB: 
+						sekwencja[8]: PCFSALTP
+						masa: 817.391287499
+					JonY: 
+						sekwencja[7]: DETYVPK
+						masa: 849.399423541
+				Jony:
+					JonB: 
+						sekwencja[9]: PCFSALTPD
+						masa: 932.418230523
+					JonY: 
+						sekwencja[6]: ETYVPK
+						masa: 734.372480517
+				Jony:
+					JonB: 
+						sekwencja[10]: PCFSALTPDE
+						masa: 1061.46082361
+					JonY: 
+						sekwencja[5]: TYVPK
+						masa: 605.329887429
+				Jony:
+					JonB: 
+						sekwencja[11]: PCFSALTPDET
+						masa: 1162.50850208
+					JonY: 
+						sekwencja[4]: YVPK
+						masa: 504.28220896
+				Jony:
+					JonB: 
+						sekwencja[12]: PCFSALTPDETY
+						masa: 1325.57183061
+					JonY: 
+						sekwencja[3]: VPK
+						masa: 341.218880428
+				Jony:
+					JonB: 
+						sekwencja[13]: PCFSALTPDETYV
+						masa: 1424.64024452
+					JonY: 
+						sekwencja[2]: PK
+						masa: 242.150466515
+				Jony:
+					JonB: 
+						sekwencja[14]: PCFSALTPDETYVP
+						masa: 1521.69300837
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[15]: PCFSALTPDETYVPK
+						masa: 1649.78797139
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[5]: AFDEK
+			masa: 608.280591508
+			Jony[6]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[5]: AFDEK
+						masa: 607.272766476
+				Jony:
+					JonB: 
+						sekwencja[1]: A
+						masa: 72.0443902516
+					JonY: 
+						sekwencja[4]: FDEK
+						masa: 536.235652691
+				Jony:
+					JonB: 
+						sekwencja[2]: AF
+						masa: 219.112804165
+					JonY: 
+						sekwencja[3]: DEK
+						masa: 389.167238778
+				Jony:
+					JonB: 
+						sekwencja[3]: AFD
+						masa: 334.139747189
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[4]: AFDE
+						masa: 463.182340277
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[5]: AFDEK
+						masa: 591.277303291
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[16]: LFTFHADICTLPDTEK
+			masa: 1849.89203628
+			Jony[17]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[16]: LFTFHADICTLPDTEK
+						masa: 1848.88421124
+				Jony:
+					JonB: 
+						sekwencja[1]: L
+						masa: 114.091340444
+					JonY: 
+						sekwencja[15]: FTFHADICTLPDTEK
+						masa: 1735.80014727
+				Jony:
+					JonB: 
+						sekwencja[2]: LF
+						masa: 261.159754357
+					JonY: 
+						sekwencja[14]: TFHADICTLPDTEK
+						masa: 1588.73173335
+				Jony:
+					JonB: 
+						sekwencja[3]: LFT
+						masa: 362.207432826
+					JonY: 
+						sekwencja[13]: FHADICTLPDTEK
+						masa: 1487.68405488
+				Jony:
+					JonB: 
+						sekwencja[4]: LFTF
+						masa: 509.275846739
+					JonY: 
+						sekwencja[12]: HADICTLPDTEK
+						masa: 1340.61564097
+				Jony:
+					JonB: 
+						sekwencja[5]: LFTFH
+						masa: 646.334758597
+					JonY: 
+						sekwencja[11]: ADICTLPDTEK
+						masa: 1203.55672911
+				Jony:
+					JonB: 
+						sekwencja[6]: LFTFHA
+						masa: 717.371872382
+					JonY: 
+						sekwencja[10]: DICTLPDTEK
+						masa: 1132.51961533
+				Jony:
+					JonB: 
+						sekwencja[7]: LFTFHAD
+						masa: 832.398815406
+					JonY: 
+						sekwencja[9]: ICTLPDTEK
+						masa: 1017.4926723
+				Jony:
+					JonB: 
+						sekwencja[8]: LFTFHADI
+						masa: 945.482879383
+					JonY: 
+						sekwencja[8]: CTLPDTEK
+						masa: 904.408608327
+				Jony:
+					JonB: 
+						sekwencja[9]: LFTFHADIC
+						masa: 1048.49206417
+					JonY: 
+						sekwencja[7]: TLPDTEK
+						masa: 801.399423541
+				Jony:
+					JonB: 
+						sekwencja[10]: LFTFHADICT
+						masa: 1149.53974264
+					JonY: 
+						sekwencja[6]: LPDTEK
+						masa: 700.351745072
+				Jony:
+					JonB: 
+						sekwencja[11]: LFTFHADICTL
+						masa: 1262.62380662
+					JonY: 
+						sekwencja[5]: PDTEK
+						masa: 587.267681095
+				Jony:
+					JonB: 
+						sekwencja[12]: LFTFHADICTLP
+						masa: 1359.67657046
+					JonY: 
+						sekwencja[4]: DTEK
+						masa: 490.214917246
+				Jony:
+					JonB: 
+						sekwencja[13]: LFTFHADICTLPD
+						masa: 1474.70351349
+					JonY: 
+						sekwencja[3]: TEK
+						masa: 375.187974222
+				Jony:
+					JonB: 
+						sekwencja[14]: LFTFHADICTLPDT
+						masa: 1575.75119196
+					JonY: 
+						sekwencja[2]: EK
+						masa: 274.140295754
+				Jony:
+					JonB: 
+						sekwencja[15]: LFTFHADICTLPDTE
+						masa: 1704.79378504
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[16]: LFTFHADICTLPDTEK
+						masa: 1832.88874806
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[3]: QIK
+			masa: 387.24816918
+			Jony[4]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[3]: QIK
+						masa: 386.240344148
+				Jony:
+					JonB: 
+						sekwencja[1]: Q
+						masa: 129.065853972
+					JonY: 
+						sekwencja[2]: IK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[2]: QI
+						masa: 242.149917949
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[3]: QIK
+						masa: 370.244880964
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[1]: K
+			masa: 146.105527698
+			Jony[2]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[1]: K
+						masa: 129.102239481
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[9]: QTALVELLK
+			masa: 1013.61209639
+			Jony[10]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[9]: QTALVELLK
+						masa: 1012.60427136
+				Jony:
+					JonB: 
+						sekwencja[1]: Q
+						masa: 129.065853972
+					JonY: 
+						sekwencja[8]: TALVELLK
+						masa: 884.545693852
+				Jony:
+					JonB: 
+						sekwencja[2]: QT
+						masa: 230.113532441
+					JonY: 
+						sekwencja[7]: ALVELLK
+						masa: 783.498015383
+				Jony:
+					JonB: 
+						sekwencja[3]: QTA
+						masa: 301.150646225
+					JonY: 
+						sekwencja[6]: LVELLK
+						masa: 712.460901598
+				Jony:
+					JonB: 
+						sekwencja[4]: QTAL
+						masa: 414.234710203
+					JonY: 
+						sekwencja[5]: VELLK
+						masa: 599.376837621
+				Jony:
+					JonB: 
+						sekwencja[5]: QTALV
+						masa: 513.303124116
+					JonY: 
+						sekwencja[4]: ELLK
+						masa: 500.308423708
+				Jony:
+					JonB: 
+						sekwencja[6]: QTALVE
+						masa: 642.345717204
+					JonY: 
+						sekwencja[3]: LLK
+						masa: 371.26583062
+				Jony:
+					JonB: 
+						sekwencja[7]: QTALVEL
+						masa: 755.429781181
+					JonY: 
+						sekwencja[2]: LK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[8]: QTALVELL
+						masa: 868.513845158
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[9]: QTALVELLK
+						masa: 996.608808172
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: HK
+			masa: 283.164439556
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: HK
+						masa: 282.156614524
+				Jony:
+					JonB: 
+						sekwencja[1]: H
+						masa: 138.066188325
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: HK
+						masa: 266.16115134
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[2]: PK
+			masa: 243.158291547
+			Jony[3]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[2]: PK
+						masa: 242.150466515
+				Jony:
+					JonB: 
+						sekwencja[1]: P
+						masa: 98.0600403157
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[2]: PK
+						masa: 226.15500333
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[7]: ATEEQLK
+			masa: 817.41814761
+			Jony[8]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[7]: ATEEQLK
+						masa: 816.410322578
+				Jony:
+					JonB: 
+						sekwencja[1]: A
+						masa: 72.0443902516
+					JonY: 
+						sekwencja[6]: TEEQLK
+						masa: 745.373208793
+				Jony:
+					JonB: 
+						sekwencja[2]: AT
+						masa: 173.09206872
+					JonY: 
+						sekwencja[5]: EEQLK
+						masa: 644.325530324
+				Jony:
+					JonB: 
+						sekwencja[3]: ATE
+						masa: 302.134661808
+					JonY: 
+						sekwencja[4]: EQLK
+						masa: 515.282937236
+				Jony:
+					JonB: 
+						sekwencja[4]: ATEE
+						masa: 431.177254896
+					JonY: 
+						sekwencja[3]: QLK
+						masa: 386.240344148
+				Jony:
+					JonB: 
+						sekwencja[5]: ATEEQ
+						masa: 559.235832402
+					JonY: 
+						sekwencja[2]: LK
+						masa: 258.181766643
+				Jony:
+					JonB: 
+						sekwencja[6]: ATEEQL
+						masa: 672.319896379
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[7]: ATEEQLK
+						masa: 800.414859393
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[12]: TVMENFVAFVDK
+			masa: 1398.68533798
+			Jony[13]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[12]: TVMENFVAFVDK
+						masa: 1397.67751295
+				Jony:
+					JonB: 
+						sekwencja[1]: T
+						masa: 102.054954935
+					JonY: 
+						sekwencja[11]: VMENFVAFVDK
+						masa: 1296.62983448
+				Jony:
+					JonB: 
+						sekwencja[2]: TV
+						masa: 201.123368848
+					JonY: 
+						sekwencja[10]: MENFVAFVDK
+						masa: 1197.56142057
+				Jony:
+					JonB: 
+						sekwencja[3]: TVM
+						masa: 332.163853763
+					JonY: 
+						sekwencja[9]: ENFVAFVDK
+						masa: 1066.52093566
+				Jony:
+					JonB: 
+						sekwencja[4]: TVME
+						masa: 461.206446851
+					JonY: 
+						sekwencja[8]: NFVAFVDK
+						masa: 937.478342568
+				Jony:
+					JonB: 
+						sekwencja[5]: TVMEN
+						masa: 575.249374292
+					JonY: 
+						sekwencja[7]: FVAFVDK
+						masa: 823.435415127
+				Jony:
+					JonB: 
+						sekwencja[6]: TVMENF
+						masa: 722.317788205
+					JonY: 
+						sekwencja[6]: VAFVDK
+						masa: 676.367001214
+				Jony:
+					JonB: 
+						sekwencja[7]: TVMENFV
+						masa: 821.386202118
+					JonY: 
+						sekwencja[5]: AFVDK
+						masa: 577.298587301
+				Jony:
+					JonB: 
+						sekwencja[8]: TVMENFVA
+						masa: 892.423315903
+					JonY: 
+						sekwencja[4]: FVDK
+						masa: 506.261473516
+				Jony:
+					JonB: 
+						sekwencja[9]: TVMENFVAF
+						masa: 1039.49172982
+					JonY: 
+						sekwencja[3]: VDK
+						masa: 359.193059603
+				Jony:
+					JonB: 
+						sekwencja[10]: TVMENFVAFV
+						masa: 1138.56014373
+					JonY: 
+						sekwencja[2]: DK
+						masa: 260.12464569
+				Jony:
+					JonB: 
+						sekwencja[11]: TVMENFVAFVD
+						masa: 1253.58708675
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[12]: TVMENFVAFVDK
+						masa: 1381.68204977
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[7]: CCAADDK
+			masa: 724.252010888
+			Jony[8]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[7]: CCAADDK
+						masa: 723.244185856
+				Jony:
+					JonB: 
+						sekwencja[1]: C
+						masa: 104.016461253
+					JonY: 
+						sekwencja[6]: CAADDK
+						masa: 620.235001069
+				Jony:
+					JonB: 
+						sekwencja[2]: CC
+						masa: 207.025646039
+					JonY: 
+						sekwencja[5]: AADDK
+						masa: 517.225816283
+				Jony:
+					JonB: 
+						sekwencja[3]: CCA
+						masa: 278.062759824
+					JonY: 
+						sekwencja[4]: ADDK
+						masa: 446.188702498
+				Jony:
+					JonB: 
+						sekwencja[4]: CCAA
+						masa: 349.099873609
+					JonY: 
+						sekwencja[3]: DDK
+						masa: 375.151588714
+				Jony:
+					JonB: 
+						sekwencja[5]: CCAAD
+						masa: 464.126816633
+					JonY: 
+						sekwencja[2]: DK
+						masa: 260.12464569
+				Jony:
+					JonB: 
+						sekwencja[6]: CCAADD
+						masa: 579.153759657
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[7]: CCAADDK
+						masa: 707.248722671
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
+		Peptyd:
+			sekwencja[10]: EACFAVEGPK
+			masa: 1049.48518163
+			Jony[11]:
+				Jony:
+					JonB: 
+						sekwencja[0]: 
+						masa: 0.0
+					JonY: 
+						sekwencja[10]: EACFAVEGPK
+						masa: 1048.47735659
+				Jony:
+					JonB: 
+						sekwencja[1]: E
+						masa: 130.049869555
+					JonY: 
+						sekwencja[9]: ACFAVEGPK
+						masa: 919.434763505
+				Jony:
+					JonB: 
+						sekwencja[2]: EA
+						masa: 201.08698334
+					JonY: 
+						sekwencja[8]: CFAVEGPK
+						masa: 848.397649721
+				Jony:
+					JonB: 
+						sekwencja[3]: EAC
+						masa: 304.096168126
+					JonY: 
+						sekwencja[7]: FAVEGPK
+						masa: 745.388464934
+				Jony:
+					JonB: 
+						sekwencja[4]: EACF
+						masa: 451.164582039
+					JonY: 
+						sekwencja[6]: AVEGPK
+						masa: 598.320051021
+				Jony:
+					JonB: 
+						sekwencja[5]: EACFA
+						masa: 522.201695824
+					JonY: 
+						sekwencja[5]: VEGPK
+						masa: 527.282937236
+				Jony:
+					JonB: 
+						sekwencja[6]: EACFAV
+						masa: 621.270109737
+					JonY: 
+						sekwencja[4]: EGPK
+						masa: 428.214523323
+				Jony:
+					JonB: 
+						sekwencja[7]: EACFAVE
+						masa: 750.312702825
+					JonY: 
+						sekwencja[3]: GPK
+						masa: 299.171930235
+				Jony:
+					JonB: 
+						sekwencja[8]: EACFAVEG
+						masa: 807.334166545
+					JonY: 
+						sekwencja[2]: PK
+						masa: 242.150466515
+				Jony:
+					JonB: 
+						sekwencja[9]: EACFAVEGP
+						masa: 904.386930394
+					JonY: 
+						sekwencja[1]: K
+						masa: 145.097702666
+				Jony:
+					JonB: 
+						sekwencja[10]: EACFAVEGPK
+						masa: 1032.48189341
+					JonY: 
+						sekwencja[0]: 
+						masa: 0.0
