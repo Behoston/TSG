@@ -62,7 +62,6 @@ class Seq(object):
 
     def __init__(self, seq):
         self.seq = seq
-
         self.masa = self.policz_mase(self.seq)
 
     def __str__(self):
