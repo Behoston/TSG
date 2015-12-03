@@ -9,3 +9,7 @@ class Wynik(object):
         self.fragmenty = fragmenty
         self.masa = stosunek_masy * ladunek
         self.potencjalne = {}
+        self.najlepszy = None
+
+    def sortuj_potencjalne(self):
+        return sorted(list(self.potencjalne.items()), key=lambda p: p[1])
