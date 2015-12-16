@@ -10,12 +10,12 @@ class Bialko(Seq):
         for i in self.seq:
             peptyd += i
             if peptyd[-1] == 'K' or peptyd[-1] == 'R':
-                wyniki.append(Peptyd(peptyd))
+                wyniki.append(Peptyd(peptyd, self.header))
                 peptyd = ''
         if wyniki:
             return wyniki
         else:
-            return [Peptyd(self.seq)]
+            return [Peptyd(self.seq, self.header)]
 
     def __init__(self, seq, header):
         super(Bialko, self).__init__(seq)

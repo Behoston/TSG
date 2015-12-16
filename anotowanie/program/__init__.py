@@ -1,5 +1,7 @@
 # coding=utf-8
 """ Program do składania sekwencji z spektrometrii mas """
+from copy import copy
+
 from program.Bialko import Bialko
 from program.Wynik import Wynik
 
@@ -43,6 +45,7 @@ def wczytaj_wyniki(plik):
             elif zaczety_jon and line[0].isdigit():
                 fragmenty.append(float(line.split()[0]))
             elif line[:8] == 'END IONS':
-                wyniki.append(Wynik(ID, stosunek, ladunek, fragmenty))
+                wyniki.append(Wynik(ID, stosunek, ladunek, copy(fragmenty)))
                 zaczety_jon = False
+                fragmenty = []
     return wyniki

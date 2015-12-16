@@ -14,13 +14,17 @@ class Jon(Seq):
 
 
 class JonB(Jon):
+    """ zawiera dodatkowy H """
+
     def __init__(self, seq):
         super(JonB, self).__init__(seq)
         if self.masa > 0:
-            self.masa += self.atomy()['PROTON']
+            self.masa += self.atomy()['H']
 
 
 class JonY(Jon):
+    """ zawiera dodatkową grupę OH """
+
     def __init__(self, seq):
         super(JonY, self).__init__(seq)
         if self.masa > 0:

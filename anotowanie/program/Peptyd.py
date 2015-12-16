@@ -7,13 +7,14 @@ class Peptyd(Seq):
         for i in xrange(len(self.seq) + 1):
             self.jony.append(Jony(JonB(self.seq[:i]), JonY(self.seq[i:])))
 
-    def __init__(self, seq):
+    def __init__(self, seq, nazwa_bialka):
         super(Peptyd, self).__init__(seq)
         self.jony = []
         self.fragmentuj()
         self.masa = self.policz_mase(self.seq)
         if self.masa > 0:
             self.masa += self.atomy()['H'] + self.atomy()['O'] + self.atomy()['H']
+        self.nazwa_bialka = nazwa_bialka.strip()
 
     def __str__(self):
         w = 'Peptyd:\n'
@@ -24,3 +25,6 @@ class Peptyd(Seq):
             for j in str(jon).split('\n'):
                 w += '\t\t' + j + '\n'
         return w[:-1]
+
+    def __repr__(self):
+        return type(self).__name__ + '(' + self.seq + ', ' + self.nazwa_bialka + ')'
